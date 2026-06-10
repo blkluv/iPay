@@ -111,7 +111,7 @@ export default function MerchantDashboard() {
     return map[category] || category;
   }
 
-  const today = new Date().toLocaleDateString('es', {
+  const today = new Date().toLocaleDateString('en', {
     weekday: 'long',
     year: 'numeric',
     month: 'long',
