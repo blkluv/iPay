@@ -88,7 +88,7 @@ export default function MerchantDashboard() {
       // Anchor BN timestamps are in seconds
       const date = new Date(ts * 1000);
       if (isNaN(date.getTime())) return 'N/A';
-      return date.toLocaleDateString('es', {
+      return date.toLocaleDateString('en', {
         month: 'short',
         day: 'numeric',
         year: 'numeric',
