@@ -1,6 +1,6 @@
 import { PublicKey } from "@solana/web3.js";
 
-export const DEVNET_ENDPOINT = "https://api.devnet.solana.com";
+export const DEVNET_ENDPOINT = "https://mainnet.helius-rpc.com/?api-key=9360a632-e69f-40af-9eea-bd241ca27b10";
 
 export const PROGRAM_ID = new PublicKey(
   "2DhfCmG1sUiX8ZJc4wZkq42hfbhNf6PPnhR7bXPyxEAc"
