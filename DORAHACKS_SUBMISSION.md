@@ -142,7 +142,7 @@ El mercado de pagos digitales en LATAM alcanzara **$460 mil millones en 2025**. 
 
 - **Contrato desplegado y funcional en devnet** — [verificable en Solana Explorer](https://explorer.solana.com/address/2DhfCmG1sUiX8ZJc4wZkq42hfbhNf6PPnhR7bXPyxEAc?cluster=devnet)
 - **Token iPAY creado y operativo** — [verificable en Solana Explorer](https://explorer.solana.com/address/CRJqookT2EuxZtCJmG8Z69S1qUSTV2rHGh62CQowwFsZ?cluster=devnet)
-- **Demo funcional en produccion** — [ipay.xpandia.co](https://ipay.xpandia.co)
+- **Demo funcional en produccion** — [ipay.cremarket.io](https://ipay.cremarket.io)
 - **Seguridad auditada internamente** — 6 vulnerabilidades criticas identificadas y parcheadas antes de submission
 - **Documentacion completa de negocio** — business plan, tokenomics, compliance roadmap, estrategia de expansion global
 
@@ -210,8 +210,8 @@ Mientras otros proyectos en este hackathon construyen soluciones individuales pa
 
 | | |
 |---|---|
-| **Demo en vivo** | [https://ipay.xpandia.co](https://ipay.xpandia.co) |
-| **Pitch Deck** | [https://ipay.xpandia.co/pitch](https://ipay.xpandia.co/pitch) |
+| **Demo en vivo** | [https://ipay.cremarket.io](https://ipay.cremarket.io) |
+| **Pitch Deck** | [https://ipay.cremarket.io/pitch](https://ipay.cremarket.io/pitch) |
 | **GitHub** | [https://github.com/xpandia/iPay](https://github.com/xpandia/iPay) |
 | **Smart Contract** | [Solana Explorer — `2DhfCmG1sUiX8ZJc4wZkq42hfbhNf6PPnhR7bXPyxEAc`](https://explorer.solana.com/address/2DhfCmG1sUiX8ZJc4wZkq42hfbhNf6PPnhR7bXPyxEAc?cluster=devnet) |
 | **iPAY Token** | [Solana Explorer — `CRJqookT2EuxZtCJmG8Z69S1qUSTV2rHGh62CQowwFsZ`](https://explorer.solana.com/address/CRJqookT2EuxZtCJmG8Z69S1qUSTV2rHGh62CQowwFsZ?cluster=devnet) |
@@ -234,4 +234,4 @@ iPay es esa razon.
 
 ---
 
-*Powered by [xpandia](https://xpandia.co) — the company behind iPay.*
+*Powered by [xpandia](https://cremarket.io) — the company behind iPay.*

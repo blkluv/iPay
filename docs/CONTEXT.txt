@@ -330,7 +330,7 @@ Herramientas actualizadas:
    - AI chat → generates real functional Blinks + on-chain stats
    - Analytics → reads real merchant data from chain
    - CreateBlink modal → real QR + WhatsApp sharing + functional URLs
-✅ Deployed to Vercel: ipay.xpandia.co
+✅ Deployed to Vercel: ipay.cremarket.io
 ✅ GitHub repo público: github.com/xpandia/iPay
 
 --- PRÓXIMO: Test end-to-end + video demo + submit DoraHacks ---

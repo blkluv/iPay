@@ -4,12 +4,12 @@
   "private": true,
   "description": "iPay — The Square of PayFi. Intelligent payments platform on Solana with automatic loyalty, AI assistant, and Blinks for LATAM.",
   "keywords": ["solana", "payments", "payfi", "loyalty", "blinks", "anchor", "ai", "latam", "usdc", "stablecoin", "token-2022", "transfer-hooks"],
-  "homepage": "https://ipay.xpandia.co",
+  "homepage": "https://ipay.cremarket.io",
   "repository": {
     "type": "git",
     "url": "https://github.com/xpandia/iPay"
   },
-  "author": "Daniel Ospina <daniel@xpandia.co>",
+  "author": "Daniel Ospina <daniel@cremarket.io>",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",

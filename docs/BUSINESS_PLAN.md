@@ -43,7 +43,7 @@ All in **one product**, focused on the fastest-growing crypto market in the worl
 **Key metrics:**
 - Platform deployed on Solana devnet with 7 on-chain instructions
 - 12-route Next.js frontend with real blockchain integration
-- Live at ipay.xpandia.co
+- Live at ipay.cremarket.io
 - iPAY loyalty token minted: `CRJqookT2EuxZtCJmG8Z69S1qUSTV2rHGh62CQowwFsZ`
 - Platform fee: 0.5% (50 basis points)
 
@@ -501,7 +501,7 @@ Revenue ($M)     EBITDA ($M)
 - Frontend with 12 routes, real blockchain integration
 - iPAY loyalty token minted and operational
 - AI Agent functional (Claude API + Solana Agent Kit)
-- Live demo at ipay.xpandia.co
+- Live demo at ipay.cremarket.io
 - Open-source code on GitHub
 
 ---
@@ -546,7 +546,7 @@ Revenue ($M)     EBITDA ($M)
 - [x] Blinks API (GET/POST endpoints)
 - [x] QR code generation
 - [x] AI natural language to Blinks
-- [x] Live demo at ipay.xpandia.co
+- [x] Live demo at ipay.cremarket.io
 
 ### Phase 2: Incubation & Beta (April - August 2026)
 

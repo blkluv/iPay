@@ -78,7 +78,7 @@ export async function GET(request: NextRequest) {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>iPay — Comprobante de Pago</title>
+  <title>Pay — Comprobante de Pago</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
@@ -357,7 +357,7 @@ export async function GET(request: NextRequest) {
     <div class="receipt-body">
       <!-- Logo -->
       <div class="logo">
-        <div class="logo-text">iPay</div>
+        <div class="logo-text">Pay</div>
         <div class="logo-sub">Pagos Inteligentes</div>
       </div>
 
@@ -439,7 +439,7 @@ export async function GET(request: NextRequest) {
       <!-- Footer -->
       <div class="footer">
         <div class="footer-text">Gracias por pagar con iPay</div>
-        <div class="footer-powered">Powered by <a href="https://xpandia.co" style="color:#9945FF;text-decoration:none;font-weight:600">xpandia</a> &bull; ${fecha}</div>
+        <div class="footer-powered">Powered by <a href="https://cremarket.io" style="color:#9945FF;text-decoration:none;font-weight:600">xpandia</a> &bull; ${fecha}</div>
       </div>
     </div>
   </div>

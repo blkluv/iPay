@@ -249,7 +249,7 @@ export default function PitchDeck() {
           </h1>
 
           <p className="mt-3 text-sm text-gray-500 font-medium tracking-widest uppercase">
-            A <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">xpandia</a> company
+            A <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">xpandia</a> company
           </p>
 
           <p className="mt-6 text-xl sm:text-2xl md:text-3xl font-light text-gray-300 tracking-tight">
@@ -261,7 +261,7 @@ export default function PitchDeck() {
           </p>
 
           <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link href="https://ipay.xpandia.co" target="_blank" className="px-8 py-3.5 rounded-full font-semibold text-sm text-black bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:opacity-90 transition-opacity">
+            <Link href="https://ipay.cremarket.io" target="_blank" className="px-8 py-3.5 rounded-full font-semibold text-sm text-black bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:opacity-90 transition-opacity">
               Live Demo →
             </Link>
             <Link href="https://github.com/xpandia/iPay" target="_blank" className="px-8 py-3.5 rounded-full font-semibold text-sm text-white border border-white/20 hover:border-white/40 transition-colors bg-white/[0.03]">
@@ -630,7 +630,7 @@ export default function PitchDeck() {
             <div className="p-6 rounded-2xl border border-white/[0.06] bg-white/[0.02]">
               <h3 className="font-bold text-white mb-4">Product</h3>
               <ul className="space-y-2 text-sm text-gray-400">
-                {["Smart contract deployed on Solana devnet", "18 pages: dashboard, checkout, AI, analytics, developer portal", "12 APIs with rate limiting & security hardening", "Legal: ToS, Privacy Policy, Merchant Agreement", "Live demo: ipay.xpandia.co"].map((item, i) => (
+                {["Smart contract deployed on Solana devnet", "18 pages: dashboard, checkout, AI, analytics, developer portal", "12 APIs with rate limiting & security hardening", "Legal: ToS, Privacy Policy, Merchant Agreement", "Live demo: ipay.cremarket.io"].map((item, i) => (
                   <li key={i} className="flex items-start gap-2">
                     <span className="mt-1 w-1.5 h-1.5 rounded-full bg-[#14F195] flex-shrink-0" />
                     {item}
@@ -816,7 +816,7 @@ export default function PitchDeck() {
             </p>
 
             <p className="mt-4 text-base font-semibold text-white/80">
-              Built by <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-[#9945FF] to-[#14F195] bg-clip-text text-transparent hover:opacity-80 transition-opacity">xpandia</a> — Building the financial infrastructure LATAM deserves.
+              Built by <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-[#9945FF] to-[#14F195] bg-clip-text text-transparent hover:opacity-80 transition-opacity">xpandia</a> — Building the financial infrastructure LATAM deserves.
             </p>
 
             <p className="mt-6 text-2xl sm:text-3xl font-black text-white">
@@ -825,7 +825,7 @@ export default function PitchDeck() {
           </div>
 
           <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-5">
-            <Link href="https://ipay.xpandia.co" target="_blank" className="px-14 py-5 rounded-full font-bold text-base text-black bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:opacity-90 transition-all hover:scale-105 shadow-lg shadow-[#9945FF]/25">
+            <Link href="https://ipay.cremarket.io" target="_blank" className="px-14 py-5 rounded-full font-bold text-base text-black bg-gradient-to-r from-[#9945FF] to-[#14F195] hover:opacity-90 transition-all hover:scale-105 shadow-lg shadow-[#9945FF]/25">
               Try Live Demo
             </Link>
             <Link href="https://github.com/xpandia/iPay" target="_blank" className="px-14 py-5 rounded-full font-bold text-base text-white border-2 border-white/30 hover:border-white/60 transition-all hover:scale-105 bg-white/[0.03]">
@@ -834,19 +834,19 @@ export default function PitchDeck() {
           </div>
 
           <div className="mt-12 flex items-center justify-center gap-8 text-xs text-gray-500">
-            <span>ipay.xpandia.co</span>
+            <span>ipay.cremarket.io</span>
             <span className="w-1 h-1 rounded-full bg-gray-700" />
             <span>github.com/xpandia/iPay</span>
             <span className="w-1 h-1 rounded-full bg-gray-700" />
-            <span>daniel@xpandia.co</span>
+            <span>daniel@cremarket.io</span>
           </div>
 
           <div className="mt-6 text-sm text-gray-500 font-medium">
             A{' '}
-            <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors font-bold">
+            <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white transition-colors font-bold">
               xpandia
             </a>
-            {' '}company · xpandia.co
+            {' '}company · cremarket.io
           </div>
         </div>
       </section>

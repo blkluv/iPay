@@ -325,7 +325,7 @@ export default function RedeemPage() {
       {/* Footer */}
       <footer className="relative z-10 pb-6 pt-4 text-center">
         <span className="text-xs text-gray-600 tracking-wide">
-          Powered by <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="font-semibold text-gray-400 hover:text-white transition-colors">xpandia</a>
+          Powered by <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="font-semibold text-gray-400 hover:text-white transition-colors">xpandia</a>
         </span>
       </footer>
 

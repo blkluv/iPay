@@ -115,7 +115,7 @@ function LiveMetrics() {
           rel="noopener noreferrer"
           className="flex items-center gap-1.5 hover:text-white transition-colors duration-200"
         >
-          <span className="text-gray-500">iPAY Token</span>
+          <span className="text-gray-500">RNT Token</span>
           <span className="text-gray-300">{truncate(LIVE_TOKEN_MINT)}</span>
           <ExternalLink className="w-3 h-3 text-gray-600" />
         </a>
@@ -392,7 +392,7 @@ export default function LandingPage() {
                 <path d="M12 2L8 10h3l-2 12 8-14h-4l3-6z" fill="white" fillOpacity="0.95"/>
               </svg>
             </div>
-            <span className="text-[19px] font-extrabold tracking-tight leading-none">iPay</span>
+            <span className="text-[19px] font-extrabold tracking-tight leading-none">RNT</span>
           </Link>
 
           <div className="hidden md:flex items-center gap-8 text-sm text-gray-400">
@@ -449,7 +449,7 @@ export default function LandingPage() {
 
         <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
           {/* Powered by xpandia badge */}
-          <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-white/10 bg-white/[0.03] text-gray-400 text-sm mb-10 animate-fade-in backdrop-blur-xl hover:border-white/20 transition-colors">
+          <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-white/10 bg-white/[0.03] text-gray-400 text-sm mb-10 animate-fade-in backdrop-blur-xl hover:border-white/20 transition-colors">
             <span className="relative flex h-2.5 w-2.5">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#14F195] opacity-75" />
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-[#14F195]" />
@@ -1833,7 +1833,7 @@ export default function LandingPage() {
               <p className="text-sm text-gray-500">
                 &copy; 2026 iPay. Plataforma de pagos inteligentes en Solana.
               </p>
-              <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="text-xs text-gray-600 hover:text-gray-400 transition-colors ml-2">
+              <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="text-xs text-gray-600 hover:text-gray-400 transition-colors ml-2">
                 Powered by <strong className="font-semibold">xpandia</strong>
               </a>
             </div>

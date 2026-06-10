@@ -2,9 +2,9 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "iPay | Acuerdo Comercial para Merchants",
+  title: "Pay | Acuerdo Comercial para Merchants",
   description:
-    "Acuerdo comercial y terminos para comerciantes que utilizan la plataforma iPay.",
+    "Acuerdo comercial y terminos para comerciantes que utilizan la plataforma Pay.",
 };
 
 export default function MerchantAgreementPage() {
@@ -17,7 +17,7 @@ export default function MerchantAgreementPage() {
             <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-purple-500 to-cyan-400 flex items-center justify-center font-bold text-white text-[10px]">
               iP
             </div>
-            <span className="text-white font-semibold text-sm">iPay</span>
+            <span className="text-white font-semibold text-sm">Pay</span>
           </Link>
           <nav className="flex gap-6 text-sm text-gray-500">
             <Link

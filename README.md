@@ -41,11 +41,11 @@ iPay es la plataforma global de pagos con wallet construida sobre Solana que per
 
 | | |
 |---|---|
-| **Demo en vivo** | [ipay.xpandia.co](https://ipay.xpandia.co) |
-| **Pitch Deck** | [ipay.xpandia.co/pitch](https://ipay.xpandia.co/pitch) |
+| **Demo en vivo** | [ipay.cremarket.io](https://ipay.cremarket.io) |
+| **Pitch Deck** | [ipay.cremarket.io/pitch](https://ipay.cremarket.io/pitch) |
 | **Smart Contract** | [Ver en Solana Explorer](https://explorer.solana.com/address/2DhfCmG1sUiX8ZJc4wZkq42hfbhNf6PPnhR7bXPyxEAc?cluster=devnet) |
 
-### Construido por [xpandia](https://xpandia.co)
+### Construido por [xpandia](https://cremarket.io)
 
 ---
 
@@ -70,8 +70,8 @@ iPay es la plataforma global de pagos con wallet construida sobre Solana que per
 | Solana Primitives | Anchor, Token-2022, Transfer Hooks, Blinks, PDAs |
 | AI Integration | LLM-powered merchant assistant |
 | Build Status | ✅ anchor build + next build + tsc |
-| Live Demo | [ipay.xpandia.co](https://ipay.xpandia.co) |
-| Pitch Deck | [ipay.xpandia.co/pitch](https://ipay.xpandia.co/pitch) |
+| Live Demo | [ipay.cremarket.io](https://ipay.cremarket.io) |
+| Pitch Deck | [ipay.cremarket.io/pitch](https://ipay.cremarket.io/pitch) |
 | Demo Video | [Ver en Loom](https://www.loom.com/share/cb6d8b12de8b44a49a081dc75b899042) |
 
 ## Screenshots
@@ -79,7 +79,7 @@ iPay es la plataforma global de pagos con wallet construida sobre Solana que per
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Landing Page</strong><br/><code>ipay.xpandia.co</code></td>
+      <td align="center"><strong>Landing Page</strong><br/><code>ipay.cremarket.io</code></td>
       <td align="center"><strong>Merchant Dashboard</strong><br/><code>/merchant</code></td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ iPay es la plataforma global de pagos con wallet construida sobre Solana que per
       <td align="center"><strong>Developer Portal</strong><br/><code>/developer</code></td>
     </tr>
   </table>
-  <p><em>Visit <a href="https://ipay.xpandia.co">ipay.xpandia.co</a> for the live demo</em></p>
+  <p><em>Visit <a href="https://ipay.cremarket.io">ipay.cremarket.io</a> for the live demo</em></p>
 </div>
 
 ## Hackathon Evaluation Criteria
@@ -107,7 +107,7 @@ iPay es la plataforma global de pagos con wallet construida sobre Solana que per
 
 > Plataforma de pagos inteligentes en Solana. Acepta SOL, USDC, EURC y PYUSD con loyalty automatico e inteligencia artificial.
 
-### [Live Demo → ipay.xpandia.co](https://ipay.xpandia.co)
+### [Live Demo → ipay.cremarket.io](https://ipay.cremarket.io)
 
 ---
 
@@ -459,7 +459,7 @@ For bugs and feature requests, open an issue on [GitHub](https://github.com/xpan
 |------|------|------------|
 | Founder & Lead Developer | Daniel Ospina | Full-stack engineer, Solana builder, LATAM fintech |
 
-Built by [xpandia](https://xpandia.co) — the parent company behind iPay.
+Built by [xpandia](https://cremarket.io) — the parent company behind iPay.
 
 ---
 
@@ -471,7 +471,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Links
 
-- **Website:** [ipay.xpandia.co](https://ipay.xpandia.co)
+- **Website:** [ipay.cremarket.io](https://ipay.cremarket.io)
 - **GitHub:** [github.com/xpandia/iPay](https://github.com/xpandia/iPay)
 - **Solana Explorer:** [View Program](https://explorer.solana.com/address/2DhfCmG1sUiX8ZJc4wZkq42hfbhNf6PPnhR7bXPyxEAc?cluster=devnet)
 
@@ -480,5 +480,5 @@ This project is licensed under the [MIT License](LICENSE).
 <p align="center">
   <strong>iPay — Payments that pay you back.</strong><br/>
   <em>Built on Solana. Powered by Blinks. Driven by AI.</em><br/>
-  <em>A <a href="https://xpandia.co">xpandia</a> company.</em>
+  <em>A <a href="https://cremarket.io">xpandia</a> company.</em>
 </p>

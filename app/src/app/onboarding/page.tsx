@@ -297,7 +297,7 @@ export default function OnboardingPage() {
 
       {/* Footer */}
       <div className="mt-12 text-center text-xs text-gray-600">
-        <p>iPay — The Square of PayFi | Powered by <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="font-semibold hover:text-gray-400 transition-colors">xpandia</a></p>
+        <p>iPay — The Square of PayFi | Powered by <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="font-semibold hover:text-gray-400 transition-colors">xpandia</a></p>
       </div>
     </div>
   );

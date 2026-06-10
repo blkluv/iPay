@@ -9,22 +9,22 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "iPay | Pagos Inteligentes en Solana",
-  description: "iPay — Plataforma de pagos inteligentes en Solana. Acepta SOL, USDC, EURC y PYUSD con loyalty automático e IA. Powered by xpandia.",
+  title: "RNT | Pagos Inteligentes en Solana",
+  description: "Crypto rent payments with 0.5% commission, instant settlement, and automatic loyalty. Built on Solana.",
   openGraph: {
-    title: "iPay | Pagos Inteligentes en Solana",
-    description: "Pagos cripto con 0.5% de comisión, liquidación instantánea y loyalty automático. Built on Solana.",
-    url: "https://ipay.xpandia.co",
-    siteName: "iPay",
+    title: "RNT | Pagos Inteligentes en Solana",
+    description: "Crypto rent payments with 0.5% commission, instant settlement, and automatic loyalty. Built on Solana.",
+    url: "https://ipay.cremarket.io",
+    siteName: "RNT",
     type: "website",
     locale: "es_CO",
   },
   twitter: {
     card: "summary_large_image",
-    title: "iPay | The Future of Payments",
+    title: "RNT | The Future of Payments",
     description: "Pagos cripto con 0.5% de comisión, liquidación instantánea y loyalty automático.",
   },
-  metadataBase: new URL("https://ipay.xpandia.co"),
+  metadataBase: new URL("https://ipay.cremarket.io"),
   icons: {
     icon: "/icon.svg",
     apple: "/icon.svg",
@@ -48,17 +48,17 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "SoftwareApplication",
-              "name": "iPay",
-              "alternateName": "iPay PayFi",
+              "name": "RNT",
+              "alternateName": "RNT PayFi",
               "description":
                 "The Square of PayFi — Intelligent payments platform on Solana combining crypto payments, automatic loyalty tokens, and AI merchant tools for Latin America.",
               "applicationCategory": "FinanceApplication",
               "operatingSystem": "Web",
-              "url": "https://ipay.xpandia.co",
+              "url": "https://ipay.cremarket.io",
               "author": {
                 "@type": "Organization",
                 "name": "xpandia",
-                "url": "https://xpandia.co",
+                "url": "https://cremarket.io",
               },
               "offers": {
                 "@type": "Offer",

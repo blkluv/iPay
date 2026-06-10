@@ -39,9 +39,9 @@ const API_SECTIONS: ApiSection[] = [
   "success": true,
   "payment": {
     "id": "pi_abc123",
-    "blinkUrl": "https://ipay.xpandia.co/api/actions/pay?...",
-    "checkoutUrl": "https://ipay.xpandia.co/pay?...",
-    "qrUrl": "https://ipay.xpandia.co/api/qr?...",
+    "blinkUrl": "https://ipay.cremarket.io/api/actions/pay?...",
+    "checkoutUrl": "https://ipay.cremarket.io/pay?...",
+    "qrUrl": "https://ipay.cremarket.io/api/qr?...",
     "status": "pending",
     "expiresAt": "2026-03-22T..."
   }
@@ -89,8 +89,8 @@ const API_SECTIONS: ApiSection[] = [
     "id": "inv_abc123",
     "invoiceNumber": "INV-2026-00042",
     "total": 0.833,
-    "paymentUrl": "https://ipay.xpandia.co/pay?...",
-    "blinkUrl": "https://ipay.xpandia.co/api/actions/pay?...",
+    "paymentUrl": "https://ipay.cremarket.io/pay?...",
+    "blinkUrl": "https://ipay.cremarket.io/api/actions/pay?...",
     "status": "sent"
   }
 }`,
@@ -136,7 +136,7 @@ const API_SECTIONS: ApiSection[] = [
         path: "/api/actions/pay?merchant=<address>&amount=<amount>",
         description: "Get Blink metadata (Solana Actions spec)",
         response: `{
-  "icon": "https://ipay.xpandia.co/icon.png",
+  "icon": "https://ipay.cremarket.io/icon.png",
   "title": "Pay Merchant",
   "description": "Pay 0.5 SOL",
   "label": "Pay Now"
@@ -187,7 +187,7 @@ const QUICK_START = `# iPay Quick Start — Accept payments in 5 minutes
 npm install @ipay/sdk  # coming soon
 
 ## 2. Create a payment
-curl -X POST https://ipay.xpandia.co/api/payments \\
+curl -X POST https://ipay.cremarket.io/api/payments \\
   -H "Content-Type: application/json" \\
   -d '{
     "merchantWallet": "YOUR_SOLANA_WALLET",
@@ -201,7 +201,7 @@ curl -X POST https://ipay.xpandia.co/api/payments \\
 # Share any of these with your customer
 
 ## 4. Set up webhooks to get notified
-curl -X POST https://ipay.xpandia.co/api/webhooks \\
+curl -X POST https://ipay.cremarket.io/api/webhooks \\
   -H "Content-Type: application/json" \\
   -d '{
     "merchantWallet": "YOUR_SOLANA_WALLET",
@@ -232,7 +232,7 @@ export default function DeveloperPortal() {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <span className="text-2xl font-bold bg-gradient-to-r from-[#9945FF] to-[#14F195] bg-clip-text text-transparent">
-              iPay
+              Pay
             </span>
             <span className="text-sm text-gray-400 border-l border-gray-700 pl-3">
               Developer Documentation

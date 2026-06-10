@@ -39,7 +39,7 @@ export default function PayLayout({
 
       {/* Powered by xpandia */}
       <footer className="relative z-10 pb-6 pt-4 text-center">
-        <a href="https://xpandia.co" target="_blank" rel="noopener noreferrer" className="text-xs text-gray-600 hover:text-gray-400 transition-colors tracking-wide">
+        <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="text-xs text-gray-600 hover:text-gray-400 transition-colors tracking-wide">
           Powered by <span className="font-semibold text-gray-400">xpandia</span>
         </a>
       </footer>

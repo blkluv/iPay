@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "iPay Protocol — Solana smart contract with 21 on-chain instructions for payments, loyalty, escrow, and subscriptions.",
   "keywords": ["solana", "anchor", "rust", "smart-contract", "payments", "loyalty", "escrow", "subscriptions"],
-  "homepage": "https://ipay.xpandia.co",
+  "homepage": "https://ipay.cremarket.io",
   "author": "Daniel Ospina",
   "license": "ISC",
   "scripts": {
