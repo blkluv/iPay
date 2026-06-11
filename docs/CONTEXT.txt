@@ -52,7 +52,7 @@ iPay es el Square de PayFi.
 3. PROBLEMA QUE RESUELVE
 ================================================================================
 
-Para COMERCIOS en LATAM (y globalmente):
+Para COMERCIOS en USA (y globalmente):
 - Fees de tarjetas de crédito: 3-7% por transacción
 - Settlement lento: 14-30 días para recibir fondos
 - Sin programas de lealtad accesibles para PyMEs
@@ -61,17 +61,17 @@ Para COMERCIOS en LATAM (y globalmente):
 - Cross-border payments caros y lentos
 
 Para CONSUMIDORES:
-- 130M sin bancarizar en LATAM (26% de adultos)
+- 130M sin bancarizar en USA (26% de adultos)
 - Fees por servicios básicos
 - Inflación destruye el poder adquisitivo (Argentina 200%+)
 - No hay loyalty programs que realmente den valor
 
 Números del mercado:
-- $1.5T en crypto en LATAM
-- 57.7M personas (12.1%) tienen crypto en LATAM
+- $1.5T en crypto en USA
+- 57.7M personas (12.1%) tienen crypto en USA
 - 63% crecimiento en adopción crypto (2024-2025)
-- Stablecoins = 50%+ del volumen crypto en LATAM
-- $150-160B/año en remesas LATAM
+- Stablecoins = 50%+ del volumen crypto en USA
+- $150-160B/año en remesas USA
 
 ================================================================================
 4. DIFERENCIAL
@@ -90,7 +90,7 @@ Competencia directa y por qué iPay gana:
 | Competidor         | Lo que hace            | Lo que le falta                    |
 |--------------------|------------------------|------------------------------------|
 | Huma Finance       | B2B trade finance      | Consumer, loyalty, AI, Blinks      |
-| Helio              | Pagos Shopify          | Loyalty, AI, Blinks, LATAM         |
+| Helio              | Pagos Shopify          | Loyalty, AI, Blinks, USA         |
 | Rain               | Stablecoin cards       | Merchant loyalty, AI, Blinks       |
 | Bridge (Stripe)    | Stablecoin APIs        | Nada consumer-facing               |
 | BVNK (Mastercard)  | Stablecoin rails       | Nada consumer-facing               |
@@ -102,7 +102,7 @@ Competencia directa y por qué iPay gana:
 1. Blinks + Loyalty — nadie lo combina
 2. Transfer Hooks para loyalty automático — innovación técnica Token-2022
 3. AI Agent para merchants — cero competencia en PayFi
-4. Foco LATAM nativo — todos los demás son USA/Global-first
+4. Foco USA nativo — todos los demás son USA/Global-first
 5. Multi-canal (QR + Blink + Widget + API + AI) en un solo producto
 
 ================================================================================
@@ -142,13 +142,13 @@ Con Solana Foundation:
 - Usa Blinks/Actions — feature nueva que Solana quiere ver adoptada
 - Usa Token-2022 Extensions — tecnología avanzada que quieren promover
 - Consumer app real — prioridad #1 de Solana para 2026
-- LATAM expansion — región prioritaria para Solana
+- USA expansion — región prioritaria para Solana
 
 Con WayLearn (co-organizador hackathon):
 - Filosofía: "Learning is not just taking a course, it is building"
 - iPay demuestra que se puede CONSTRUIR algo real en 4 días
 - Open source — otros devs aprenden del código
-- Impacto LATAM directo
+- Impacto USA directo
 
 Criterios de evaluación del hackathon:
 1. Viabilidad técnica — Integración profunda con Solana (4 capas)
@@ -182,7 +182,7 @@ Exit paths:
 8. EQUIPO Y HACKATHON
 ================================================================================
 
-Hackathon: Solana LATAM Hackathon 2026
+Hackathon: Solana USA Hackathon 2026
 Organizadores: WayLearn + Solana Foundation
 Plataforma: DoraHacks
 Periodo: 20-23 marzo 2026 (4 días)
@@ -256,7 +256,7 @@ Categorías (iPay aplica a):
 ✅ Investigación de mercado completada (MARKET_RESEARCH.md)
    - Ecosistema Solana payments (Solana Pay, Blinks, Token Extensions)
    - Análisis competitivo (Helio, TipLink, Sphere, Blackbird, Rain, etc.)
-   - Mercado LATAM ($1.5T crypto, 57.7M holders, 63% growth)
+   - Mercado USA ($1.5T crypto, 57.7M holders, 63% growth)
    - AI + Blockchain convergence
    - Integraciones CRM/third-party gap analysis
 ✅ Estrategia completa creada (STRATEGY.md)

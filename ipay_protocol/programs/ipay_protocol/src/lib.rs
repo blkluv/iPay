@@ -7,7 +7,7 @@ use anchor_spl::{
 declare_id!("2DhfCmG1sUiX8ZJc4wZkq42hfbhNf6PPnhR7bXPyxEAc");
 
 // ============================================================================
-// iPay Protocol — The Square of PayFi
+// Pay Protocol — The Square of PayFi
 // Payments + Loyalty + Merchant Registry on Solana
 // ============================================================================
 

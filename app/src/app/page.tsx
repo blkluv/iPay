@@ -115,7 +115,7 @@ function LiveMetrics() {
           rel="noopener noreferrer"
           className="flex items-center gap-1.5 hover:text-white transition-colors duration-200"
         >
-          <span className="text-gray-500">RNT Token</span>
+          <span className="text-gray-500">iPay Token</span>
           <span className="text-gray-300">{truncate(LIVE_TOKEN_MINT)}</span>
           <ExternalLink className="w-3 h-3 text-gray-600" />
         </a>
@@ -392,7 +392,7 @@ export default function LandingPage() {
                 <path d="M12 2L8 10h3l-2 12 8-14h-4l3-6z" fill="white" fillOpacity="0.95"/>
               </svg>
             </div>
-            <span className="text-[19px] font-extrabold tracking-tight leading-none">RNT</span>
+            <span className="text-[19px] font-extrabold tracking-tight leading-none">PAY</span>
           </Link>
 
           <div className="hidden md:flex items-center gap-8 text-sm text-gray-400">
@@ -1319,7 +1319,7 @@ export default function LandingPage() {
                 },
                 {
                   period: "Q4 2026",
-                  metrics: "5,000 comercios | 500,000 transacciones | $25M en volumen | Expansi\u00f3n a 5 pa\u00edses LATAM",
+                  metrics: "5,000 comercios | 500,000 transacciones | $25M en volumen | Expansi\u00f3n a 5 pa\u00edses USA",
                 },
                 {
                   period: "2027",
@@ -1378,7 +1378,7 @@ export default function LandingPage() {
               },
               {
                 stat: "10M+",
-                label: "usuarios impactados en LATAM",
+                label: "usuarios impactados en USA",
                 icon: <Users className="w-6 h-6" />,
               },
             ].map((item) => (
@@ -1408,7 +1408,7 @@ export default function LandingPage() {
               },
               {
                 value: "57.7M",
-                label: "Crypto holders en LATAM",
+                label: "Crypto holders en USA",
                 icon: <Users className="w-5 h-5" />,
               },
               {
@@ -1518,7 +1518,7 @@ export default function LandingPage() {
               },
               {
                 period: "Q3 2026",
-                title: "Expansi\u00f3n LATAM",
+                title: "Expansi\u00f3n USA",
                 items: [
                   "Mainnet completo",
                   "Shopify plugin",
@@ -1610,7 +1610,7 @@ export default function LandingPage() {
               <span className="solana-gradient-text">tu banco</span>
             </h2>
             <p className="text-gray-400 text-lg max-w-xl mx-auto">
-              Integraci&oacute;n directa con los principales bancos y plataformas de pago en LATAM
+              Integraci&oacute;n directa con los principales bancos y plataformas de pago en USA
             </p>
           </div>
 
@@ -1670,7 +1670,7 @@ export default function LandingPage() {
 
           <div className="text-center mt-12">
             <p className="text-sm text-gray-500 max-w-lg mx-auto">
-              Una API, todos los bancos de LATAM. Powered by Bitso Business +
+              Una API, todos los bancos de USA. Powered by Bitso Business +
               Alfred Pay.
             </p>
           </div>

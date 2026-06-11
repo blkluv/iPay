@@ -52,11 +52,11 @@ export default function MerchantAgreementPage() {
             Este Acuerdo Comercial (&quot;Acuerdo&quot;) establece los terminos
             y condiciones bajo los cuales usted (&quot;Comerciante&quot;,
             &quot;Merchant&quot; o &quot;usted&quot;) puede utilizar la
-            plataforma iPay para aceptar pagos en criptoactivos. Este Acuerdo
-            complementa los Terminos de Servicio generales de iPay.
+            plataforma Pay para aceptar pagos en criptoactivos. Este Acuerdo
+            complementa los Terminos de Servicio generales de Pay.
           </p>
           <p className="leading-relaxed">
-            Al registrarse como comerciante en iPay y conectar su wallet, usted
+            Al registrarse como comerciante en Pay y conectar su wallet, usted
             acepta todos los terminos de este Acuerdo.
           </p>
         </section>
@@ -67,7 +67,7 @@ export default function MerchantAgreementPage() {
             1. Obligaciones del Comerciante
           </h2>
           <p className="leading-relaxed mb-3">
-            Al utilizar iPay como plataforma de pagos, el Comerciante se
+            Al utilizar Pay como plataforma de pagos, el Comerciante se
             compromete a:
           </p>
           <ul className="list-disc list-inside space-y-2 ml-4 mb-3">
@@ -92,21 +92,21 @@ export default function MerchantAgreementPage() {
             </li>
             <li>
               <strong className="text-white">Seguridad del wallet:</strong> mantener la
-              seguridad de su wallet de comerciante y claves privadas. iPay no
+              seguridad de su wallet de comerciante y claves privadas. Pay no
               sera responsable por accesos no autorizados a wallets de
               comerciantes
             </li>
             <li>
               <strong className="text-white">Cumplimiento tributario:</strong> cumplir con
               todas las obligaciones tributarias aplicables a los ingresos
-              recibidos a traves de la Plataforma. iPay no brinda asesoria fiscal
+              recibidos a traves de la Plataforma. Pay no brinda asesoria fiscal
               y no es responsable de las obligaciones tributarias del Comerciante
             </li>
             <li>
               <strong className="text-white">Prohibiciones:</strong> no utilizar la
               Plataforma para vender productos falsificados, sustancias
               controladas, armas, material ilegal, ni cualquier producto o
-              servicio que viole los Terminos de Servicio de iPay
+              servicio que viole los Terminos de Servicio de Pay
             </li>
           </ul>
         </section>
@@ -153,7 +153,7 @@ export default function MerchantAgreementPage() {
           <p className="leading-relaxed mb-3">
             La comision del 0.5% (&quot;Platform Fee&quot;) se deduce
             automaticamente de cada transaccion al momento de su procesamiento
-            mediante el smart contract de iPay. El monto neto (99.5% del monto
+            mediante el smart contract de Pay. El monto neto (99.5% del monto
             de la transaccion) se deposita directamente en el wallet del
             Comerciante.
           </p>

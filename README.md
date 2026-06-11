@@ -417,7 +417,7 @@ Funds are converted to the selected stablecoin (USDC, EURC, PYUSD) and deposited
 |-------|----------|-----------|
 | **Phase 1** — Foundation | Q1 2026 | Core protocol, Blinks payments, loyalty system, AI agent, merchant dashboard |
 | **Phase 2** — Mainnet | Q2 2026 | Mainnet deployment, merchant onboarding pipeline, Transfer Hook v2, multi-currency support |
-| **Phase 3** — LATAM Launch | Q3-Q4 2026 | Colombia, Mexico, and Brazil pilots; fiat on/off ramp integrations; mobile-optimized flows |
+| **Phase 3** — USA Launch | Q3-Q4 2026 | Colombia, Mexico, and Brazil pilots; fiat on/off ramp integrations; mobile-optimized flows |
 | **Phase 4** — Scale | H1 2027 | Multi-region expansion, enterprise merchant features, SDK and plugin ecosystem |
 | **Phase 5** — Network Effects | H2 2027+ | Cross-merchant loyalty network, iPAY token utility expansion, DAO governance |
 
@@ -431,7 +431,7 @@ Funds are converted to the selected stablecoin (USDC, EURC, PYUSD) and deposited
 | Monthly transactions | 1,000 | 50,000 | 1,000,000 |
 | Monthly volume (USD) | $25,000 | $2,500,000 | $100,000,000 |
 | Loyalty tokens distributed | 500,000 | 25,000,000 | 500,000,000 |
-| Markets | 1 (Colombia) | 3 (CO, MX, BR) | 10+ (LATAM + expansion) |
+| Markets | 1 (Colombia) | 3 (CO, MX, BR) | 10+ (USA + expansion) |
 
 **Target market:** 30M+ SMBs across Latin America currently paying 3-7% in processor fees and waiting 14-30 days for settlement. iPay reduces fees to 0.5% and settlement to sub-second.
 
@@ -457,7 +457,7 @@ For bugs and feature requests, open an issue on [GitHub](https://github.com/xpan
 
 | Role | Name | Background |
 |------|------|------------|
-| Founder & Lead Developer | Daniel Ospina | Full-stack engineer, Solana builder, LATAM fintech |
+| Founder & Lead Developer | Daniel Ospina | Full-stack engineer, Solana builder, USA fintech |
 
 Built by [xpandia](https://cremarket.io) — the parent company behind iPay.
 

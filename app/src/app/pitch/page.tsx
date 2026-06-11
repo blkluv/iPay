@@ -284,7 +284,7 @@ export default function PitchDeck() {
         <div data-slide-index={1} className="w-full max-w-5xl">
           <span className="text-xs font-mono text-[#9945FF] uppercase tracking-[0.3em]">The Problem</span>
           <h2 className="mt-4 text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-tight">
-            LATAM merchants are <br />
+            USA merchants are <br />
             <span className="bg-gradient-to-r from-red-400 to-orange-400 bg-clip-text text-transparent">bleeding money.</span>
           </h2>
 
@@ -292,7 +292,7 @@ export default function PitchDeck() {
             {[
               { num: "3–7%", label: "Payment processor fees", sub: "vs 0.5% with iPay" },
               { num: "14–30", label: "Days to receive settlement", sub: "vs sub-second with Solana" },
-              { num: "130M", label: "Unbanked adults in LATAM", sub: "Zero access to digital payments" },
+              { num: "130M", label: "Unbanked adults in USA", sub: "Zero access to digital payments" },
             ].map((item, i) => (
               <div key={i} className="relative p-8 rounded-2xl border border-white/[0.06] bg-white/[0.02] backdrop-blur-sm group hover:border-red-500/20 transition-colors">
                 <div className="text-4xl sm:text-5xl font-black text-white">{item.num}</div>
@@ -391,8 +391,8 @@ export default function PitchDeck() {
           <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-1">
             {[
               { label: "TAM", value: "$10T", desc: "Global payments" },
-              { label: "SAM", value: "$730B", desc: "LATAM crypto" },
-              { label: "SOM", value: "$5B", desc: "LATAM merchant crypto payments" },
+              { label: "SAM", value: "$730B", desc: "USA crypto" },
+              { label: "SOM", value: "$5B", desc: "USA merchant crypto payments" },
             ].map((item, i) => (
               <div key={i} className="relative p-6 bg-white/[0.02] border border-white/[0.04] first:rounded-l-2xl last:rounded-r-2xl text-center">
                 <div className="text-xs text-gray-500 uppercase tracking-widest">{item.label}</div>
@@ -537,7 +537,7 @@ export default function PitchDeck() {
             <div className="px-6">
               <CompRow name="Bridge (Stripe)" val="$1.1B" desc="Stablecoin infra" better="+ Loyalty + AI + Blinks" />
               <CompRow name="Rain" val="$1.95B" desc="Stablecoin cards" better="+ Loyalty + AI + SMBs" />
-              <CompRow name="Mesh" val="$482M" desc="Crypto payments" better="+ Loyalty + LATAM focus" />
+              <CompRow name="Mesh" val="$482M" desc="Crypto payments" better="+ Loyalty + USA focus" />
               <CompRow name="Blackbird" val="~$300M" desc="Restaurant loyalty" better="Multi-vertical + AI" />
               <CompRow name="Huma Finance" val="~$200M" desc="PayFi lending" better="Consumer-facing + loyalty" />
               <CompRow name="Helio" val="MoonPay acq." desc="Solana payments" better="+ Loyalty + AI + escrow" />
@@ -669,7 +669,7 @@ export default function PitchDeck() {
               <Phase phase="Phase 2 — Apr–Aug 2026" title="Incubation & Beta" items={["Security audit", "Beta with 20-50 merchants (Colombia)", "Fiat on/off-ramp (Bridge/Circle)", "KYC/AML integration (Metamap)"]} />
             </div>
             <div>
-              <Phase phase="Phase 3 — Q3-Q4 2026" title="LATAM Launch" items={["Mainnet deploy, 500 merchants", "Shopify plugin", "Nequi/Bitso partnerships", "$5M TPV milestone"]} />
+              <Phase phase="Phase 3 — Q3-Q4 2026" title="USA Launch" items={["Mainnet deploy, 500 merchants", "Shopify plugin", "Nequi/Bitso partnerships", "$5M TPV milestone"]} />
               <Phase phase="Phase 4 — 2027" title="Scale" items={["Mexico + Brazil expansion", "50K merchants, $2B TPV", "Multi-chain (Base, ETH L2s)", "Series A: $15-25M"]} />
             </div>
           </div>
@@ -799,14 +799,14 @@ export default function PitchDeck() {
             <div className="text-left">
               <div className="font-bold text-white text-lg">Daniel Ospina</div>
               <div className="text-sm text-gray-400">Founder & Lead Developer</div>
-              <div className="text-xs text-gray-500 mt-1">Full-stack · Solana builder · LATAM fintech</div>
+              <div className="text-xs text-gray-500 mt-1">Full-stack · Solana builder · USA fintech</div>
             </div>
           </div>
 
           <div className="mt-16">
             <h2 className="text-5xl sm:text-6xl md:text-7xl font-black leading-[0.9]">
               <span className="bg-gradient-to-r from-[#9945FF] via-[#14F195] to-[#9945FF] bg-clip-text text-transparent bg-[length:200%] animate-[gradient-shift_4s_ease_infinite]">
-                iPay is PayFi<br />for LATAM.
+                iPay is PayFi<br />for USA.
               </span>
             </h2>
 
@@ -816,7 +816,7 @@ export default function PitchDeck() {
             </p>
 
             <p className="mt-4 text-base font-semibold text-white/80">
-              Built by <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-[#9945FF] to-[#14F195] bg-clip-text text-transparent hover:opacity-80 transition-opacity">xpandia</a> — Building the financial infrastructure LATAM deserves.
+              Built by <a href="https://cremarket.io" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-[#9945FF] to-[#14F195] bg-clip-text text-transparent hover:opacity-80 transition-opacity">xpandia</a> — Building the financial infrastructure USA deserves.
             </p>
 
             <p className="mt-6 text-2xl sm:text-3xl font-black text-white">

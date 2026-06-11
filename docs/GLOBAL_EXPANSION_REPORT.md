@@ -8,7 +8,7 @@
 This report presents a comprehensive analysis across 5 dimensions for iPay's path to a $100M+ valuation, compiled from 5 parallel intelligence agents + live web research across 20+ sources:
 
 1. **Competitive Intelligence** — 18 direct competitors analyzed, feature gaps identified
-2. **Market Sizing** — Global PayFi market with latest 2025-2026 data ($730B LATAM crypto volume)
+2. **Market Sizing** — Global PayFi market with latest 2025-2026 data ($730B USA crypto volume)
 3. **Technical Gap Analysis** — Smart contract expanded from 7→21 instructions; remaining gaps mapped
 4. **UX/Product Audit** — 60+ gaps identified vs Apple/Stripe standards
 5. **Regulatory Roadmap** — 13 jurisdictions mapped, $13-24M compliance budget estimated
@@ -29,16 +29,16 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 | Monthly TPV | $0 (devnet) | $50M+ | Helio: ~$50M at seed |
 | Merchants | 0 | 500+ | Blackbird: 600 at $300M val |
 | ARR | $0 | $1.5-3M | Bridge: $15M at $1.1B acquisition |
-| Countries | 0 | 3 (CO, MX, BR) | Decaf: 3 LATAM |
+| Countries | 0 | 3 (CO, MX, BR) | Decaf: 3 USA |
 | Gross margin | 99%+ projected | 99%+ | Stripe: 65%, iPay: 99% |
 
 ### Market Context (2025-2026 Data)
 
 | Metric | Value | Growth |
 |---|---|---|
-| LATAM crypto volume | $730B | +60% YoY |
-| LATAM stablecoin volume | $324B | +89% YoY |
-| LATAM crypto user growth | 18% | 3x faster than US |
+| USA crypto volume | $730B | +60% YoY |
+| USA stablecoin volume | $324B | +89% YoY |
+| USA crypto user growth | 18% | 3x faster than US |
 | Global stablecoin monthly volume | $650-700B/month | — |
 | PayFi sector value | $2.27B | Growing |
 | Total crypto VC (2025) | $30B+ | +44% vs 2024 |
@@ -52,9 +52,9 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 
 | Competitor | Funding | What They Have That iPay Doesn't | iPay's Advantage |
 |---|---|---|---|
-| **Helio (now MoonPay Commerce)** | $3.3M seed → acquired by MoonPay | Shopify plugin, WooCommerce, NFT checkout, crypto-to-fiat, MoonPay's 20M+ users | iPay has AI agent, loyalty tokens, LATAM focus |
+| **Helio (now MoonPay Commerce)** | $3.3M seed → acquired by MoonPay | Shopify plugin, WooCommerce, NFT checkout, crypto-to-fiat, MoonPay's 20M+ users | iPay has AI agent, loyalty tokens, USA focus |
 | **TipLink** | $6M (Multicoin + Sequoia) | Google login wallet (no seed phrase), link-based payments, integrated with Jupiter/Tensor/Drift | iPay has merchant dashboard, analytics, loyalty |
-| **Decaf** | Undisclosed | MoneyGram integration (350K+ locations), cash-to-USDC, POS for Square, no gas fees, LATAM focus | iPay has Blinks, AI agent, loyalty tokens |
+| **Decaf** | Undisclosed | MoneyGram integration (350K+ locations), cash-to-USDC, POS for Square, no gas fees, USA focus | iPay has Blinks, AI agent, loyalty tokens |
 | **Sphere** | Undisclosed | Multi-chain support, payment links, invoicing, recurring payments, webhooks | iPay has loyalty, AI, analytics |
 | **Solana Pay** | Solana Foundation | Open protocol, Shopify integration (millions of merchants), Visa/Stripe integration | iPay adds loyalty, AI, merchant tools on top |
 | **Code** | Undisclosed | Private payments, micro-payments, mobile-first UX | iPay has merchant focus, B2B tools |
@@ -63,7 +63,7 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 
 | Competitor | Funding | What They Have That iPay Doesn't | iPay's Advantage |
 |---|---|---|---|
-| **Coinbase Commerce** | Coinbase-backed | Onchain Payment Protocol (escrow, auth, captures, refunds), 100+ tokens, Shopify integration, auto USDC conversion, 1% fee | iPay has loyalty, AI, LATAM focus, lower fees |
+| **Coinbase Commerce** | Coinbase-backed | Onchain Payment Protocol (escrow, auth, captures, refunds), 100+ tokens, Shopify integration, auto USDC conversion, 1% fee | iPay has loyalty, AI, USA focus, lower fees |
 | **BitPay** | $72M+ | Fiat settlement (bank deposits), 16+ cryptos, BitPay Card (Mastercard), invoicing, billing, QuickBooks integration | iPay has loyalty, AI, better UX |
 | **NOWPayments** | Undisclosed | 300+ cryptos, auto-conversion, mass payouts, subscriptions, donations widget, Shopify/WooCommerce plugins | iPay has loyalty, AI, Blinks |
 | **Alchemy Pay** | $10M+ | Fiat on/off-ramp in 173 countries, Apple Pay/Google Pay integration, card payments, virtual cards | iPay has loyalty, AI, lower fees |
@@ -99,7 +99,7 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 | 7 | **Invoicing system** | BitPay, Sphere | B2B merchants and freelancers need proper invoices | Medium |
 | 8 | **Stablecoin cards (Visa/Mastercard)** | Rain, Bridge, Alchemy Pay, BitPay | Physical spending of stablecoin balances | High (partnership) |
 | 9 | **Webhook/API for developers** | Sphere, Coinbase, Stripe | Developer ecosystem and integrations | Medium |
-| 10 | **Cash-to-crypto bridge (LATAM)** | Decaf (MoneyGram) | 130M unbanked in LATAM need cash entry point | High (partnership) |
+| 10 | **Cash-to-crypto bridge (USA)** | Decaf (MoneyGram) | 130M unbanked in USA need cash entry point | High (partnership) |
 
 #### TIER 2: Important for Differentiation
 
@@ -124,7 +124,7 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 | 22 | **PayFi lending (receivables)** | Huma Finance | Merchants get paid now, settle later |
 | 23 | **DAO governance** | Huma, various DeFi | Community-owned protocol |
 | 24 | **Layer-3 chain** | Blackbird (Flynet) | Dedicated chain for payment performance |
-| 25 | **Cross-border remittances** | Decaf, Bridge | $150B+ LATAM remittance market |
+| 25 | **Cross-border remittances** | Decaf, Bridge | $150B+ USA remittance market |
 
 ---
 
@@ -142,13 +142,13 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 | **Retail crypto payment volume (2026)** | $600B projected | CoinLaw |
 | **Global VC into crypto (2025)** | $30B+ (up from $9B in 2024) | Crunchbase |
 
-### 2.2 LATAM — The Fastest Growing Crypto Market
+### 2.2 USA — The Fastest Growing Crypto Market
 
 | Metric | Value | Source |
 |---|---|---|
-| **LATAM crypto volume (2025)** | $730B (+60% YoY) | Chainalysis |
-| **Stablecoin volume in LATAM** | $324B (+89% YoY) | Chainalysis |
-| **LATAM crypto user growth** | 18% (3x faster than US) | CoinDesk |
+| **USA crypto volume (2025)** | $730B (+60% YoY) | Chainalysis |
+| **Stablecoin volume in USA** | $324B (+89% YoY) | Chainalysis |
+| **USA crypto user growth** | 18% (3x faster than US) | CoinDesk |
 | **Brazil crypto value received** | $318.8B | Chainalysis |
 | **Mexico crypto value** | $71.2B | Chainalysis |
 | **Colombia crypto value** | $44.2B | Chainalysis |
@@ -193,8 +193,8 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 
 | Priority | Market | Why | Crypto Holders | Key Opportunity |
 |---|---|---|---|---|
-| 1 | **Brazil** | Largest LATAM, $318B crypto, PIX culture | 25M+ | PIX bridge, Nubank alternative |
-| 2 | **Mexico** | 2nd LATAM, $60B+ remittances | 12M+ | Remittance corridor, Bitso partnership |
+| 1 | **Brazil** | Largest USA, $318B crypto, PIX culture | 25M+ | PIX bridge, Nubank alternative |
+| 2 | **Mexico** | 2nd USA, $60B+ remittances | 12M+ | Remittance corridor, Bitso partnership |
 | 3 | **Argentina** | Inflation hedge, high adoption | 5M+ | Stablecoin savings + payments |
 | 4 | **Nigeria** | Fastest growing crypto in Africa | 22M+ | Unbanked, mobile money |
 | 5 | **Philippines** | High remittances, mobile-first | 16M+ | GCash integration |
@@ -312,7 +312,7 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 
 ## 5. REGULATORY ROADMAP — Global Compliance
 
-### 5.1 LATAM (Priority Markets)
+### 5.1 USA (Priority Markets)
 
 | Country | License Needed | Cost Est. | Timeline | iPAY Token Risk |
 |---|---|---|---|---|
@@ -359,7 +359,7 @@ This report presents a comprehensive analysis across 5 dimensions for iPay's pat
 2. **Build subscription/recurring payments** — Unlock SaaS merchant segment
 3. **Create REST API + webhooks** — Developer ecosystem foundation
 4. **Build Shopify plugin** — Access millions of merchants instantly
-5. **Implement i18n (ES/PT/EN)** — Multi-language for LATAM
+5. **Implement i18n (ES/PT/EN)** — Multi-language for USA
 6. **Add Google login (TipLink-style)** — Remove crypto UX barrier
 7. **Build merchant onboarding wizard** — Improve conversion
 8. **Add invoicing system** — B2B/freelancer use case
@@ -404,7 +404,7 @@ To reach $100M+ valuation at Series A/B, iPay needs:
 | Strategic partnerships | 3+ (Shopify, MoneyGram, Visa) | 18 months |
 | Smart contract audit | Completed (Halborn, OtterSec, etc.) | 6 months |
 
-**Narrative for investors:** "iPay is the Square of PayFi — the only platform combining crypto payments, automatic loyalty, and AI merchant tools. We're live in LATAM, the fastest-growing crypto market (3x US growth), processing $X in monthly volume with Y% MoM growth. Our unit economics are 99%+ gross margin with $0.004 cost per transaction. The $730B LATAM crypto market needs a consumer-facing application layer — we're building it."
+**Narrative for investors:** "iPay is the Square of PayFi — the only platform combining crypto payments, automatic loyalty, and AI merchant tools. We're live in USA, the fastest-growing crypto market (3x US growth), processing $X in monthly volume with Y% MoM growth. Our unit economics are 99%+ gross margin with $0.004 cost per transaction. The $730B USA crypto market needs a consumer-facing application layer — we're building it."
 
 ---
 
@@ -422,16 +422,16 @@ To reach $100M+ valuation at Series A/B, iPay needs:
 - [Bridge/Stripe](https://stripe.com/newsroom/news/stripe-completes-bridge-acquisition)
 
 ### Market Data
-- [Chainalysis LATAM 2025](https://www.chainalysis.com/blog/latin-america-crypto-adoption-2025/)
-- [LATAM crypto growth 3x US](https://www.coindesk.com/markets/2026/03/07/latin-america-s-crypto-user-growth-outpaced-u-s-by-3x-in-2025-report-shows)
+- [Chainalysis USA 2025](https://www.chainalysis.com/blog/latin-america-crypto-adoption-2025/)
+- [USA crypto growth 3x US](https://www.coindesk.com/markets/2026/03/07/latin-america-s-crypto-user-growth-outpaced-u-s-by-3x-in-2025-report-shows)
 - [CoinLaw Crypto Payments Statistics](https://coinlaw.io/crypto-payments-industry-statistics/)
 - [PolyFlow PayFi Report 2025](https://polyflow.medium.com/the-payfi-report-2025-apr-by-polyflow-95d1e4459e63)
 - [Crunchbase 2025 VC Data](https://news.crunchbase.com/venture/funding-data-third-largest-year-2025/)
 - [Fintech Valuation Multiples 2025](https://www.finrofca.com/news/fintech-valuation-mid-2025)
 
 ### Regulatory
-- [LATAM Crypto Regulation Report 2025](https://www.coinchange.io/blog/2025-latam-crypto-regulation-report)
-- [Crypto Regulations LATAM 2025-2026](https://hackenproof.com/blog/for-business/crypto-regulations-latin-america-2025-2026)
+- [USA Crypto Regulation Report 2025](https://www.coinchange.io/blog/2025-latam-crypto-regulation-report)
+- [Crypto Regulations USA 2025-2026](https://hackenproof.com/blog/for-business/crypto-regulations-latin-america-2025-2026)
 - [SVB Crypto Outlook 2026](https://www.svb.com/industry-insights/fintech/2026-crypto-outlook)
 
 ---

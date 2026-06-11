@@ -9,22 +9,22 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "RNT | Pagos Inteligentes en Solana",
+  title: "PAY | Pagos Inteligentes en Solana",
   description: "Crypto rent payments with 0.5% commission, instant settlement, and automatic loyalty. Built on Solana.",
   openGraph: {
-    title: "RNT | Pagos Inteligentes en Solana",
+    title: "PAY | Pagos Inteligentes en Solana",
     description: "Crypto rent payments with 0.5% commission, instant settlement, and automatic loyalty. Built on Solana.",
-    url: "https://ipay.cremarket.io",
-    siteName: "RNT",
+    url: "https://pay.cremarket.io",
+    siteName: "PAY",
     type: "website",
     locale: "es_CO",
   },
   twitter: {
     card: "summary_large_image",
-    title: "RNT | The Future of Payments",
+    title: "PAY | The Future of Payments",
     description: "Pagos cripto con 0.5% de comisión, liquidación instantánea y loyalty automático.",
   },
-  metadataBase: new URL("https://ipay.cremarket.io"),
+  metadataBase: new URL("https://pay.cremarket.io"),
   icons: {
     icon: "/icon.svg",
     apple: "/icon.svg",
@@ -37,7 +37,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es" className="dark">
+    <html lang="en" className="dark">
       <body
         className={`${inter.variable} font-sans bg-gray-950 text-white antialiased`}
       >
@@ -48,16 +48,16 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "SoftwareApplication",
-              "name": "RNT",
-              "alternateName": "RNT PayFi",
+              "name": "PAY",
+              "alternateName": "PAY PayFi",
               "description":
                 "The Square of PayFi — Intelligent payments platform on Solana combining crypto payments, automatic loyalty tokens, and AI merchant tools for Latin America.",
               "applicationCategory": "FinanceApplication",
               "operatingSystem": "Web",
-              "url": "https://ipay.cremarket.io",
+              "url": "https://pay.cremarket.io",
               "author": {
                 "@type": "Organization",
-                "name": "xpandia",
+                "name": "cremarket",
                 "url": "https://cremarket.io",
               },
               "offers": {
@@ -79,7 +79,7 @@ export default function RootLayout({
                 "21 on-chain smart contract instructions",
               ],
               "keywords":
-                "PayFi, Solana, payments, loyalty, AI, LATAM, Blinks, stablecoin, USDC, merchant",
+                "PayFi, Solana, payments, loyalty, AI, USA, Blinks, stablecoin, USDC, merchant",
             }),
           }}
         />

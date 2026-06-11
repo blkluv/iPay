@@ -37,12 +37,12 @@ iPay takes a **compliance-first, launch-fast** approach:
 
 ### 2.1 Activities That Require NO License
 
-iPay's current operations fall within activities that do not require financial licenses in most LATAM jurisdictions:
+iPay's current operations fall within activities that do not require financial licenses in most USA jurisdictions:
 
 | Activity | Legal Basis | Notes |
 |---|---|---|
 | **Software platform (SaaS)** | General commerce | iPay is a technology platform, not a financial institution |
-| **Facilitating crypto-to-crypto payments** | Not regulated as money transmission in most LATAM countries | Solana wallet to Solana wallet; iPay never touches funds |
+| **Facilitating crypto-to-crypto payments** | Not regulated as money transmission in most USA countries | Solana wallet to Solana wallet; iPay never touches funds |
 | **Loyalty token (iPAY)** | Consumer protection law (not securities law) | Non-tradable utility token = loyalty points |
 | **Merchant dashboard & analytics** | General commerce | Software tool with no financial activity |
 | **AI Agent** | General commerce | Natural language interface to existing functionality |
@@ -102,11 +102,11 @@ Rather than spending 12-18 months obtaining licenses, iPay will partner with alr
 
 ### 3.2 Partner Types Needed
 
-| Capability | Partner Type | Examples in LATAM | Estimated Timeline |
+| Capability | Partner Type | Examples in USA | Estimated Timeline |
 |---|---|---|---|
 | **Fiat on-ramp** (user deposits COP/MXN → USDC) | Licensed exchange or payment processor | Bitso, Mercado Pago, Nequi, Transak | Month 3-4 |
 | **Fiat off-ramp** (merchant converts USDC → COP/MXN) | Licensed exchange or money transmitter | Bridge (Stripe), Circle, Bitso, Decaf | Month 3-4 |
-| **KYC/AML verification** | Identity verification provider | Metamap (LATAM-focused), Onfido, Sumsub | Month 3 |
+| **KYC/AML verification** | Identity verification provider | Metamap (USA-focused), Onfido, Sumsub | Month 3 |
 | **Banking relationship** | Licensed bank | Bancolombia, BBVA Mexico, Nu | Month 6-9 |
 
 ### 3.3 Colombia: Specific Partner Strategy
@@ -133,7 +133,7 @@ Rather than spending 12-18 months obtaining licenses, iPay will partner with alr
 ### 3.4 Mexico: Specific Partner Strategy
 
 **Regulatory context:**
-- Ley Fintech (2018) — one of the most advanced fintech laws in LATAM
+- Ley Fintech (2018) — one of the most advanced fintech laws in USA
 - CNBV (Comision Nacional Bancaria y de Valores) regulates fintech institutions
 - ITF (Instituciones de Tecnologia Financiera) license required for certain activities
 - Virtual asset service providers must register with CNBV
@@ -142,7 +142,7 @@ Rather than spending 12-18 months obtaining licenses, iPay will partner with alr
 
 | Partner | What They Provide | Integration Type |
 |---|---|---|
-| **Bitso** | ITF license, MXN/USDC pairs, largest LATAM crypto exchange | On/off-ramp API |
+| **Bitso** | ITF license, MXN/USDC pairs, largest USA crypto exchange | On/off-ramp API |
 | **Mercado Pago** | Payment processing, 50M+ users in Mexico | Merchant onboarding channel |
 | **Clip** | Payment processing license, SME focus | Merchant acquisition |
 | **Conekta** | Payment aggregator license, developer-friendly | Fiat payment processing |
@@ -228,7 +228,7 @@ Rather than spending 12-18 months obtaining licenses, iPay will partner with alr
 **Key considerations:**
 - PIX integration requires Banco Central authorization
 - NuCoin (Nubank) precedent validates blockchain loyalty tokens
-- Largest LATAM market but most complex regulatory environment
+- Largest USA market but most complex regulatory environment
 
 ### 5.2 Argentina
 
@@ -295,7 +295,7 @@ iPay implements risk-based KYC that balances compliance with user experience:
 
 | Component | Provider | Purpose | Cost |
 |---|---|---|---|
-| **Identity verification** | Metamap (LATAM-focused) | Document verification, liveness check, facial matching | $0.50-2.00 per verification |
+| **Identity verification** | Metamap (USA-focused) | Document verification, liveness check, facial matching | $0.50-2.00 per verification |
 | **Sanctions screening** | Chainalysis / Elliptic | OFAC, EU, UN sanctions list screening | $500-2,000/month |
 | **Wallet screening** | Chainalysis KYT | Check wallet addresses against known illicit addresses | $1,000-3,000/month |
 | **Transaction monitoring** | Custom + Chainalysis | Pattern detection, threshold alerts, suspicious activity | $1,000-3,000/month |
@@ -516,7 +516,7 @@ iPay may transfer data across borders (e.g., Colombian user data processed by Me
 
 | Category | Recommended Providers |
 |---|---|
-| **KYC/Identity** | Metamap (LATAM-focused), Sumsub, Onfido |
+| **KYC/Identity** | Metamap (USA-focused), Sumsub, Onfido |
 | **Blockchain analytics** | Chainalysis, Elliptic, TRM Labs |
 | **Travel rule** | Notabene, Sygna |
 | **Smart contract audit** | OtterSec, CertiK, Neodyme, Halborn |

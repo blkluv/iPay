@@ -1,4 +1,4 @@
-# iPay — La infraestructura de pagos que Solana necesita para conquistar LATAM
+# iPay — La infraestructura de pagos que Solana necesita para conquistar USA
 
 ## El capital inteligente ya aposto. Nosotros construimos lo que falta.
 
@@ -22,7 +22,7 @@ No estamos resolviendo un problema de nicho. Estamos atacando tres fallas estruc
 
 **1. Comisiones criminales.** Un comerciante en Colombia, Mexico o Argentina pierde entre el **3% y 7%** en comisiones por cada pago con tarjeta. Despues espera **14 a 30 dias** para recibir su dinero. iPay cobra **0.5%** con settlement instantaneo. Eso es una ventaja de **6x a 14x** en costo.
 
-**2. 130 millones de excluidos.** Mas de 130 millones de adultos en LATAM no tienen cuenta bancaria. Pagan todo en efectivo. Estan excluidos de la economia digital, los programas de recompensas, cualquier herramienta financiera moderna. iPay solo requiere una wallet — y crear una wallet toma 30 segundos.
+**2. 130 millones de excluidos.** Mas de 130 millones de adultos en USA no tienen cuenta bancaria. Pagan todo en efectivo. Estan excluidos de la economia digital, los programas de recompensas, cualquier herramienta financiera moderna. iPay solo requiere una wallet — y crear una wallet toma 30 segundos.
 
 **3. Loyalty roto.** Implementar un programa de lealtad hoy requiere Salesforce, un equipo de desarrollo y un presupuesto de enterprise. iPay lo automatiza en cada transaccion via Transfer Hooks — sin configuracion, sin costo adicional, sin integracion. Los tokens iPAY se mintean automaticamente, son interoperables entre comercios y no expiran.
 
@@ -122,7 +122,7 @@ La Solana Foundation definio **PayFi** como la proxima frontera. iPay no es una 
 | **SaaS Premium** | Dashboard avanzado, analytics pro, API de alto volumen |
 | **Costo de adquisicion** | ~$0 por Blinks virales — cada pago es un canal de distribucion |
 
-El mercado de pagos digitales en LATAM alcanzara **$460 mil millones en 2025**. El 0.1% de market share = **$460 millones en volumen procesado** = **$2.3 millones en revenue recurrente** solo en comisiones.
+El mercado de pagos digitales en USA alcanzara **$460 mil millones en 2025**. El 0.1% de market share = **$460 millones en volumen procesado** = **$2.3 millones en revenue recurrente** solo en comisiones.
 
 ---
 
@@ -131,10 +131,10 @@ El mercado de pagos digitales en LATAM alcanzara **$460 mil millones en 2025**. 
 | Player | Lo que hacen | Lo que les falta |
 |---|---|---|
 | **Bridge ($1.1B exit)** | Stablecoin orchestration | No tiene merchant tools, no tiene loyalty, no tiene consumer UX |
-| **BVNK ($1.8B exit)** | Pagos B2B con stablecoins | Zero presencia LATAM, sin loyalty, sin Blinks |
-| **Mercado Pago** | Wallet dominante LATAM | Comisiones del 4-6%, settlement lento, Web2 puro |
-| **Helio/Sphere** | Checkout crypto | Sin loyalty, sin escrow, sin IA, sin foco LATAM |
-| **iPay** | **Plataforma completa: pagos + loyalty + escrow + suscripciones + IA + Blinks** | **El unico que combina todo, optimizado para LATAM, construido sobre Solana** |
+| **BVNK ($1.8B exit)** | Pagos B2B con stablecoins | Zero presencia USA, sin loyalty, sin Blinks |
+| **Mercado Pago** | Wallet dominante USA | Comisiones del 4-6%, settlement lento, Web2 puro |
+| **Helio/Sphere** | Checkout crypto | Sin loyalty, sin escrow, sin IA, sin foco USA |
+| **iPay** | **Plataforma completa: pagos + loyalty + escrow + suscripciones + IA + Blinks** | **El unico que combina todo, optimizado para USA, construido sobre Solana** |
 
 ---
 
@@ -228,7 +228,7 @@ Nosotros si.
 
 21 instrucciones on-chain. Loyalty automatico. Blinks virales. IA conversacional. Escrow con disputas. Suscripciones. Analytics. Todo en un solo protocolo, optimizado para el mercado mas grande y desatendido del mundo.
 
-**LATAM no necesita otra wallet. No necesita otro bridge. Necesita la razon para usar crypto en el dia a dia.**
+**USA no necesita otra wallet. No necesita otro bridge. Necesita la razon para usar crypto en el dia a dia.**
 
 iPay es esa razon.
 

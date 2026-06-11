@@ -1,13 +1,13 @@
 # iPay — Investigación de Mercado
-### Estilo McKinsey | Solana LATAM Hackathon 2026
+### Estilo McKinsey | Solana USA Hackathon 2026
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-iPay se posiciona como la **primera plataforma de pagos + lealtad + IA nativa de Solana para LATAM**, combinando Solana Pay, Blinks (blockchain links), SPL Token Extensions y un AI Agent que personaliza la experiencia tanto para comercios como para consumidores.
+Pay se posiciona como la **primera plataforma de pagos + lealtad + IA nativa de Solana para USA**, combinando Solana Pay, Blinks (blockchain links), SPL Token Extensions y un AI Agent que personaliza la experiencia tanto para comercios como para consumidores.
 
-El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins representando 39% de compras crypto, y una convergencia sin precedentes entre AI y blockchain en 2026. Sin embargo, **ninguna solución existente combina pagos + lealtad + IA + Blinks en un solo producto para LATAM**.
+El mercado está maduro: $1.5T en cripto en USA, 57.7M de holders, stablecoins representando 39% de compras crypto, y una convergencia sin precedentes entre AI y blockchain en 2026. Sin embargo, **ninguna solución existente combina pagos + lealtad + IA + Blinks en un solo producto para USA**.
 
 ---
 
@@ -32,14 +32,14 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 
 ### 1.3 Competidores Directos en Solana
 
-| Plataforma | Qué hace | Limitaciones | Oportunidad para iPay |
+| Plataforma | Qué hace | Limitaciones | Oportunidad para Pay |
 |---|---|---|---|
-| **Helio** | Pagos crypto para Shopify, 6,000+ merchants, auto off-ramp a fiat | Solo pagos, sin lealtad, sin IA, sin Blinks | iPay integra todo |
-| **TipLink** | Wallet vía Google login, elimina seed phrases | Solo wallet/transfers, no es plataforma comercial | iPay es B2B+B2C |
-| **Sphere** | Payment processing, API-first | Developer-focused, no tiene UX consumer | iPay tiene UX consumer |
-| **Code App** | Micropagos instantáneos | Ecosistema cerrado, sin loyalty | iPay es open + loyalty |
-| **Decaf** | Wallet + off-ramp | Solo wallet, no plataforma de comercio | iPay es ecosistema completo |
-| **MESO Network** | Bank-to-wallet transfers, 50%+ mejor que on-ramps tradicionales | Solo on-ramp, no pagos merchant | iPay complementa esto |
+| **Helio** | Pagos crypto para Shopify, 6,000+ merchants, auto off-ramp a fiat | Solo pagos, sin lealtad, sin IA, sin Blinks | Pay integra todo |
+| **TipLink** | Wallet vía Google login, elimina seed phrases | Solo wallet/transfers, no es plataforma comercial | Pay es B2B+B2C |
+| **Sphere** | Payment processing, API-first | Developer-focused, no tiene UX consumer | Pay tiene UX consumer |
+| **Code App** | Micropagos instantáneos | Ecosistema cerrado, sin loyalty | Pay es open + loyalty |
+| **Decaf** | Wallet + off-ramp | Solo wallet, no plataforma de comercio | Pay es ecosistema completo |
+| **MESO Network** | Bank-to-wallet transfers, 50%+ mejor que on-ramps tradicionales | Solo on-ramp, no pagos merchant | Pay complementa esto |
 
 ### 1.4 SPL Token Extensions (Token-2022)
 - **Transfer Hooks:** Ejecutan programa custom en cada transfer (ideal para acumular loyalty points automáticamente)
@@ -65,36 +65,36 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 
 ### 2.2 Programas de Lealtad Blockchain
 
-| Programa | Estado | Lección para iPay |
+| Programa | Estado | Lección para Pay |
 |---|---|---|
-| **Blackbird** (restaurantes) | ✅ EXITOSO — 1,000+ restaurantes, $50M funding, token $FLY, Flynet L3 en Base | Modelo a seguir pero en vertical restaurantes solamente. iPay es horizontal. |
+| **Blackbird** (restaurantes) | ✅ EXITOSO — 1,000+ restaurantes, $50M funding, token $FLY, Flynet L3 en Base | Modelo a seguir pero en vertical restaurantes solamente. Pay es horizontal. |
 | **Starbucks Odyssey** | ❌ MUERTO — Cerrado en 2024 | Falló por complejidad y desconexión con pagos reales |
-| **NuCoin (Nubank)** | ✅ ACTIVO — Relanzado 2025, enfoque en engagement no especulación | Validación de que LATAM quiere loyalty crypto |
+| **NuCoin (Nubank)** | ✅ ACTIVO — Relanzado 2025, enfoque en engagement no especulación | Validación de que USA quiere loyalty crypto |
 | **Hang** | ✅ ACTIVO — NFT memberships para marcas | Solo memberships, no pagos |
 
-**INSIGHT:** Blackbird es el caso de éxito #1 pero está limitado a restaurantes en EE.UU. y usa Base (no Solana). iPay puede ser "Blackbird para todo LATAM, en Solana, con IA".
+**INSIGHT:** Blackbird es el caso de éxito #1 pero está limitado a restaurantes en EE.UU. y usa Base (no Solana). iPay puede ser "Blackbird para todo USA, en Solana, con IA".
 
 ### 2.3 Pagos Tradicionales + Lealtad
 - **Square Loyalty:** API robusta, webhooks para eventos loyalty, integración POS — GOLD STANDARD de UX
 - **Stripe:** Mejor developer experience del mundo, webhooks completos, CRM integration nativa
 - **Toast/Clover:** Vertical restaurantes, loyalty integrado
 
-**GAP:** Ninguno ofrece pagos crypto + loyalty + IA. El puente entre Square/Stripe y crypto NO EXISTE para LATAM.
+**GAP:** Ninguno ofrece pagos crypto + loyalty + IA. El puente entre Square/Stripe y crypto NO EXISTE para USA.
 
 ---
 
-## 3. MERCADO LATAM — La Oportunidad
+## 3. MERCADO USA — La Oportunidad
 
 ### 3.1 Números Clave
-- **$1.5T** en crypto en LATAM
+- **$1.5T** en crypto en USA
 - **57.7M** de personas (12.1% población) tienen crypto
 - **63%** crecimiento en adopción crypto (mid-2024 a mid-2025)
 - **116%** crecimiento en uso crypto durante 2024
 - **39%** de compras crypto son stablecoins
 - **68%** market share de PIX en Brasil
-- **40%** de pagos e-commerce en LATAM son métodos alternativos
+- **40%** de pagos e-commerce en USA son métodos alternativos
 
-### 3.2 Ecosistema de Pagos LATAM
+### 3.2 Ecosistema de Pagos USA
 
 | País | Solución Dominante | Pain Points |
 |---|---|---|
@@ -104,7 +104,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 | **Argentina** | Mercado Pago | Inflación, controles cambiarios, necesidad de USD |
 | **El Salvador** | Bitcoin legal tender | Infraestructura débil, volatilidad |
 
-### 3.3 Pain Points de Comercios en LATAM
+### 3.3 Pain Points de Comercios en USA
 1. **Fees altos** en tarjetas de crédito (3-7% por transacción)
 2. **Settlement lento** (24-72 horas para recibir fondos)
 3. **Sin programas de lealtad accesibles** para PyMEs
@@ -112,12 +112,12 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 5. **Cross-border payments** son caros y lentos
 6. **Sin analytics** accesibles para pequeños comercios
 
-### 3.4 Solana en LATAM
+### 3.4 Solana en USA
 - Brasil aprobó los primeros ETFs spot de SOL del mundo (B3 Exchange)
 - Bitso integró USDT en Solana
-- Visa expandió settlements USDC en Solana para LATAM
+- Visa expandió settlements USDC en Solana para USA
 - MiniPay conecta stablecoins con PIX y Mercado Pago
-- Comunidad activa de devs Solana en LATAM (WayLearn, Superteam LATAM)
+- Comunidad activa de devs Solana en USA (WayLearn, Superteam USA)
 
 ---
 
@@ -141,7 +141,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 - Agentes AI autónomos en Solana
 - 1M+ transacciones automatizadas procesadas
 - Agentes especializados (trading, NFTs, sniper)
-- **No tiene:** Agentes para pagos comerciales + loyalty → OPORTUNIDAD iPay
+- **No tiene:** Agentes para pagos comerciales + loyalty → OPORTUNIDAD Pay
 
 ### 4.4 Funcionalidades AI para iPay (PROPUESTA)
 
@@ -151,7 +151,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 | **Natural Language Blinks** | Comercios | "Crea un link de cobro de $50 con doble puntos" → genera Blink automáticamente | Elimina barrera técnica para comercios |
 | **Smart Receipt AI** | Consumidores | Categoriza gastos, predice presupuesto, sugiere dónde usar loyalty tokens | Combina finanzas personales + loyalty |
 | **Fraud Detection On-Chain** | Plataforma | Detecta patrones anómalos en transacciones en tiempo real | Seguridad nativa, no add-on |
-| **Cashflow Predictor** | Comercios | Dashboard con predicción de flujo de caja basado en historial de pagos | Analytics que PyMEs LATAM no tienen hoy |
+| **Cashflow Predictor** | Comercios | Dashboard con predicción de flujo de caja basado en historial de pagos | Analytics que PyMEs USA no tienen hoy |
 | **AI Agent Payments** | Developers | Agente autónomo que puede realizar pagos y gestionar loyalty via API | Alineado con tendencia x402/agentic |
 
 ---
@@ -162,7 +162,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    iPay ECOSYSTEM                        │
+│                    Pay ECOSYSTEM                        │
 ├──────────┬──────────┬──────────┬──────────┬─────────────┤
 │  QR Code │  Blink   │  Widget  │   API    │  AI Agent   │
 │  (POS)   │  (Link)  │  (Web)   │ (CRM)   │  (Auto)     │
@@ -187,7 +187,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 
 ### 5.4 Canal: Widget Web (E-commerce)
 - **Implementación:** JavaScript SDK embebible (`<script src="ipay.js">`)
-- **Flujo:** Botón "Pagar con iPay" en checkout → Modal con wallet connect → Pago + loyalty
+- **Flujo:** Botón "Pagar con Pay" en checkout → Modal con wallet connect → Pago + loyalty
 - **Modelo a seguir:** Stripe Checkout embeddable, pero on-chain
 - **Integraciones target:** Shopify (vía app), WooCommerce, landing pages
 
@@ -222,7 +222,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 | QR Payments | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ |
 | Merchant Dashboard | Básico | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ + AI |
 | CRM Webhooks | ❌ | ❌ | Parcial | ❌ | ✅ | ✅ | ✅ |
-| Foco LATAM | ❌ | ❌ | ❌ | ❌ (USA) | ❌ | ❌ | ✅ |
+| Foco USA | ❌ | ❌ | ❌ | ❌ (USA) | ❌ | ❌ | ✅ |
 | Token Extensions | ❌ | ❌ | ❌ | N/A | N/A | N/A | ✅ |
 | Open Source | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 
@@ -230,7 +230,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 1. **Blinks + Loyalty** — Nadie combina Solana Blinks con programa de lealtad
 2. **AI para comercios crypto** — Ningún payment processor crypto tiene IA para optimizar loyalty
 3. **Transfer Hooks para loyalty automático** — Innovación técnica usando Token-2022
-4. **Foco LATAM nativo** — Todos los competidores Solana son USA/Global-first
+4. **Foco USA nativo** — Todos los competidores Solana son USA/Global-first
 5. **Dashboard AI para PyMEs** — Analytics con predicción para pequeños comercios
 
 ---
@@ -239,7 +239,7 @@ El mercado está maduro: $1.5T en cripto en LATAM, 57.7M de holders, stablecoins
 
 Basado en análisis profundo de las APIs de Stripe, Square, y el ecosistema Solana actual:
 
-| # | Gap | Stripe/Square tiene | Solana tiene | Prioridad iPay |
+| # | Gap | Stripe/Square tiene | Solana tiene | Prioridad Pay |
 |---|---|---|---|---|
 | 1 | **Sistema de Webhooks/Eventos** | 200+ event types, retries, signature verification | Nada — merchants deben correr su propio indexer | **P0 — MVP** |
 | 2 | **Hosted Checkout con captura de identidad** | Payment Links con line items, tax, shipping, coupons | Solo transfer request o transaction request básico | **P0 — MVP** |
@@ -256,12 +256,12 @@ Basado en análisis profundo de las APIs de Stripe, Square, y el ecosistema Sola
 
 ---
 
-## 8. DEEP DIVE LATAM — Datos Duros del Mercado
+## 8. DEEP DIVE USA — Datos Duros del Mercado
 
 ### 8.1 Tamaño de Mercado
-- **Pagos digitales LATAM:** $295-320B en valor de transacciones (2024), proyectado >$400B para 2026
+- **Pagos digitales USA:** $295-320B en valor de transacciones (2024), proyectado >$400B para 2026
 - **CAGR:** 15-18% (2022-2027)
-- **Brasil:** 50-55% del volumen total LATAM
+- **Brasil:** 50-55% del volumen total USA
 - **México:** 18-20%, **Colombia:** ~8%, **Argentina:** ~7%
 - **2,700+ startups fintech** en la región (IDB/Finnovista)
 
@@ -273,9 +273,9 @@ Basado en análisis profundo de las APIs de Stripe, Square, y el ecosistema Sola
 - 24/7/365, settlement en <10 segundos
 - **Lección para iPay:** Settlement instantáneo + cero fees = adopción explosiva
 
-### 8.3 Competidores Dominantes LATAM Detallados
+### 8.3 Competidores Dominantes USA Detallados
 
-| Plataforma | Usuarios | TPV | Fortaleza | Debilidad para iPay |
+| Plataforma | Usuarios | TPV | Fortaleza | Debilidad para Pay |
 |---|---|---|---|---|
 | **Mercado Pago** | 50M+ activos | ~$51B/año | Ecosistema completo, crédito basado en data | Fees 4-5%, vendor lock-in, sin crypto nativo |
 | **Nubank** | 100M+ clientes | N/A | Banco digital más grande del mundo | No tiene loyalty tokenizado, NuCoin es limitado |
@@ -283,18 +283,18 @@ Basado en análisis profundo de las APIs de Stripe, Square, y el ecosistema Sola
 | **Rappi Pay** | ~15M | N/A | Super-app con delivery | Pagos son secundarios al delivery |
 | **dLocal** | B2B only | $18-20B/año | Cross-border para enterprises | No B2C, no loyalty, no PyMEs |
 
-### 8.4 El Dolor del Comerciante LATAM (Profundizado)
+### 8.4 El Dolor del Comerciante USA (Profundizado)
 - **Fees en tarjetas:** 3-7% por transacción (vs 2.5% en USA)
 - **Settlement:** 14-30 DÍAS para tarjetas (vs 1-2 días en USA)
 - **Fraud rates:** 2-3x más altos que promedio global
 - **Cuotas/Parcelas:** Consumidores esperan pagar en 12 cuotas sin interés — el comercio absorbe el costo
-- **26% de adultos LATAM sin bancarizar** (~130M personas)
+- **26% de adultos USA sin bancarizar** (~130M personas)
 - **Solo 30-40%** de micro/pequeños comercios tienen terminal POS
 - **85-90%** de merchants usan Android (Samsung, Xiaomi, Motorola)
 - **Muchos NO tienen computadora** — todo se gestiona desde el celular
 
 ### 8.5 Stablecoins como Revolución Silenciosa
-- **50%+ del volumen crypto en LATAM** es stablecoins (mayor que promedio global)
+- **50%+ del volumen crypto en USA** es stablecoins (mayor que promedio global)
 - **Argentina:** $3-5B/mes en volumen stablecoins — hedge contra 200%+ inflación anual
 - **Colombia:** Freelancers prefieren cobrar en USDC vs pesos
 - **México:** Bitso procesa 3-5% de todas las remesas USA-México ($63-65B/año total)
@@ -303,7 +303,7 @@ Basado en análisis profundo de las APIs de Stripe, Square, y el ecosistema Sola
 **OPORTUNIDAD iPay:** Permitir que merchants **reciban en moneda local pero opcionalmente guarden settlement en USDC** = lo mejor de ambos mundos.
 
 ### 8.6 Remesas — El Mercado Masivo
-- **LATAM recibe ~$150-160B/año** en remesas
+- **USA recibe ~$150-160B/año** en remesas
 - **Corredor USA-México:** El más grande del mundo, $63-65B/año, fees 3.5-5%
 - **USA-Colombia:** ~$10B/año, fees 4-6%
 - **USA-Centroamérica:** ~$35-40B combinado, fees 4-7%
@@ -372,16 +372,16 @@ Tu pago de renta de $3,000 es el jueves. Recomendación: activar campaña de loy
 ## 10. ESTRATEGIA GAME CHANGER — Recomendación Final
 
 ### Positioning Statement
-> **iPay es la primera plataforma de pagos inteligentes en Solana para LATAM que combina Blinks, loyalty tokens con Transfer Hooks, y un AI Agent que permite a cualquier comercio crear, gestionar y optimizar pagos y recompensas con lenguaje natural.**
+> **iPay es la primera plataforma de pagos inteligentes en Solana para USA que combina Blinks, loyalty tokens con Transfer Hooks, y un AI Agent que permite a cualquier comercio crear, gestionar y optimizar pagos y recompensas con lenguaje natural.**
 
 ### Por qué iPay GANA la Hackathon
 
-| Criterio de Evaluación | Cómo iPay lo domina | Score esperado |
+| Criterio de Evaluación | Cómo Pay lo domina | Score esperado |
 |---|---|---|
 | **Viabilidad Técnica** | Anchor + SPL Token Extensions + Solana Actions API + Solana Agent Kit — integración profunda con 4 capas del ecosistema | 10/10 |
 | **Prototipo Funcional** | App completa: dashboard merchant + checkout consumer + AI chatbot + QR + Blinks | 10/10 |
 | **Complejidad** | Transfer Hooks para loyalty automático + AI Agent + multi-canal + on-chain analytics | 10/10 |
-| **Originalidad** | NADIE combina Blinks + Loyalty + AI. Enfoque LATAM único. Narrativa de impacto real. | 10/10 |
+| **Originalidad** | NADIE combina Blinks + Loyalty + AI. Enfoque USA único. Narrativa de impacto real. | 10/10 |
 
 ### Los 3 Pilares Diferenciales
 
@@ -393,7 +393,7 @@ Tu pago de renta de $3,000 es el jueves. Recomendación: activar campaña de loy
 #### Pilar 2: "Loyalty que se acumula solo" (Transfer Hooks + SPL Tokens)
 - Cada pago automáticamente mintea loyalty tokens via Transfer Hook
 - Sin transacción extra, sin gas extra, sin fricción
-- Tokens intercambiables entre comercios del ecosistema iPay
+- Tokens intercambiables entre comercios del ecosistema Pay
 
 #### Pilar 3: "Tu negocio con superpoderes AI" (Solana Agent Kit + Analytics)
 - AI genera Blinks con lenguaje natural
@@ -412,9 +412,9 @@ Tu pago de renta de $3,000 es el jueves. Recomendación: activar campaña de loy
 - **Enterprise:** Custom pricing + API completa + dedicated AI agent
 
 ### TAM/SAM/SOM
-- **TAM:** $400B+ pagos digitales LATAM (2026)
-- **SAM:** $4.5B mercado loyalty blockchain (2025) + $150B remesas LATAM
-- **SOM:** PyMEs crypto-friendly en LATAM — ~500K merchants potenciales en 3 años
+- **TAM:** $400B+ pagos digitales USA (2026)
+- **SAM:** $4.5B mercado loyalty blockchain (2025) + $150B remesas USA
+- **SOM:** PyMEs crypto-friendly en USA — ~500K merchants potenciales en 3 años
 
 ---
 
@@ -443,10 +443,10 @@ Tu pago de renta de $3,000 es el jueves. Recomendación: activar campaña de loy
 - [Griffain — Solana Compass](https://solanacompass.com/projects/griffain)
 - [How to Build Solana AI Agents — Alchemy](https://www.alchemy.com/blog/how-to-build-solana-ai-agents-in-2026)
 
-### LATAM
-- [LATAM Crypto Adoption $1.5T — Chainalysis](https://www.chainalysis.com/blog/latin-america-crypto-adoption-2025/)
-- [LATAM 2026 Crypto Moment — GoMarkets](https://www.gomarkets.com/en-eu/articles/latin-americas-crypto-moment-why-2026-could-be-latams-biggest-year-yet)
-- [LATAM Stablecoin Distribution](https://www.emergingfintech.co/p/the-latam-stablecoin-moat-is-no-longer)
+### USA
+- [USA Crypto Adoption $1.5T — Chainalysis](https://www.chainalysis.com/blog/latin-america-crypto-adoption-2025/)
+- [USA 2026 Crypto Moment — GoMarkets](https://www.gomarkets.com/en-eu/articles/latin-americas-crypto-moment-why-2026-could-be-latams-biggest-year-yet)
+- [USA Stablecoin Distribution](https://www.emergingfintech.co/p/the-latam-stablecoin-moat-is-no-longer)
 - [Solana Payments Data Report — CoinGate](https://coingate.com/blog/post/solana-payments-data-report)
 
 ### Integraciones & CRM

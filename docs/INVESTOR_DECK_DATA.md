@@ -1,17 +1,17 @@
-# iPay — Investor Deck Data Points
+# Pay — Investor Deck Data Points
 ### Series A / $100M+ Fundraise | March 2026
 
 ---
 
 ## ONE-LINER
-**iPay is the Square of PayFi — the only platform combining crypto payments, automatic loyalty tokens, and AI merchant tools on Solana, built for Latin America.**
+**Pay. is the Square of PayFi — the only platform combining crypto payments, automatic loyalty tokens, and AI merchant tools on Solana, built for Latin America.**
 
 ## THE OPPORTUNITY
-- $730B crypto volume in LATAM (2025), growing 60% YoY
-- $324B in stablecoin transactions in LATAM, up 89% YoY
-- LATAM crypto user growth is 3x faster than the US
+- $730B crypto volume in USA (2025), growing 60% YoY
+- $324B in stablecoin transactions in USA, up 89% YoY
+- USA crypto user growth is 3x faster than the US
 - 130M unbanked adults in Latin America
-- Card processing fees in LATAM: 3-7%. iPay: 0.5%. That's 85-93% cheaper.
+- Card processing fees in USA: 3-7%. Pay: 0.5%. That's 85-93% cheaper.
 
 ## WHAT MAKES iPAY UNIQUE (No Competitor Has All 3)
 1. **Automatic Loyalty** — iPAY tokens minted on every payment via Transfer Hooks (zero friction)
@@ -20,11 +20,11 @@
 
 ## COMPARABLE TRANSACTIONS
 
-| Company | Valuation | What They Do | What iPay Does Better |
+| Company | Valuation | What They Do | What Pay Does Better |
 |---|---|---|---|
 | Bridge (Stripe) | $1.1B acquisition | Stablecoin orchestration | + Loyalty + AI + merchant tools |
 | Rain | $1.95B | Stablecoin corporate cards | + Loyalty + AI + SME focus |
-| Mesh | $482M | Pay-with-any-crypto | + Loyalty + Blinks + LATAM |
+| Mesh | $482M | Pay-with-any-crypto | + Loyalty + Blinks + USA |
 | Blackbird | ~$300M | Restaurant loyalty (Base) | Multi-vertical + AI + Solana speed |
 | Huma Finance | ~$200M | PayFi lending | Consumer-facing + loyalty + AI |
 | Helio | Acquired by MoonPay | Solana payment links | + Loyalty + AI + analytics |
@@ -83,11 +83,11 @@
 
 | Segment | TAM |
 |---|---|
-| LATAM digital payments | $890B (2026) |
-| LATAM crypto payments | $45B (2026) |
+| USA digital payments | $890B (2026) |
+| USA crypto payments | $45B (2026) |
 | Global stablecoin monthly volume | $650-700B |
-| Global remittances to LATAM | $150-160B/year |
-| iPay target (Year 3) | $2B TPV, 50K merchants |
+| Global remittances to USA | $150-160B/year |
+| Pay target (Year 3) | $2B TPV, 50K merchants |
 
 ## FUNDRAISE STRUCTURE
 
@@ -113,7 +113,7 @@
 
 ## TEAM NEEDS
 - CTO / Lead Solana Engineer
-- Head of Growth (LATAM)
+- Head of Growth (USA)
 - Chief Compliance Officer
 - Head of Partnerships
 - 4-6 full-stack engineers
@@ -129,5 +129,5 @@
 
 ---
 
-*iPay — The Square of PayFi*
-*Built on Solana | Focused on LATAM | Targeting Global*
+*Pay — The Square of PayFi*
+*Built on Solana | Focused on USA | Targeting Global*

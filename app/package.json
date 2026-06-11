@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "description": "iPay — The Square of PayFi. Intelligent payments platform on Solana with automatic loyalty, AI assistant, and Blinks for LATAM.",
+  "description": "iPay — The Square of PayFi. Intelligent payments platform on Solana with automatic loyalty, AI assistant, and Blinks for USA.",
   "keywords": ["solana", "payments", "payfi", "loyalty", "blinks", "anchor", "ai", "latam", "usdc", "stablecoin", "token-2022", "transfer-hooks"],
   "homepage": "https://ipay.cremarket.io",
   "repository": {

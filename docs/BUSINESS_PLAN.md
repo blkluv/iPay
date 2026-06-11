@@ -29,7 +29,7 @@ The global payment infrastructure is being rebuilt on stablecoins. Stripe acquir
 
 But all of that capital went to **plumbing** — invisible infrastructure. Nobody has built the **application layer** that merchants and consumers actually use.
 
-iPay is that application layer.
+Pay is that application layer.
 
 We combine:
 - **Bridge** (stablecoin infrastructure) — accept SOL, USDC, any SPL token
@@ -55,7 +55,7 @@ All in **one product**, focused on the fastest-growing crypto market in the worl
 
 | Problem | Data |
 |---|---|
-| **Excessive fees** | Credit card processors charge 3-7% per transaction in LATAM |
+| **Excessive fees** | Credit card processors charge 3-7% per transaction in USA |
 | **Slow settlement** | Merchants wait 14-30 days to receive their funds |
 | **No loyalty programs** | SMEs cannot afford Salesforce or custom loyalty systems |
 | **No business intelligence** | Small merchants have zero analytics on customer behavior |
@@ -66,7 +66,7 @@ All in **one product**, focused on the fastest-growing crypto market in the worl
 
 | Problem | Data |
 |---|---|
-| **Unbanked population** | 130M adults in LATAM lack bank accounts (26% of adult population) |
+| **Unbanked population** | 130M adults in USA lack bank accounts (26% of adult population) |
 | **Inflation** | Argentina 200%+, Venezuela 300%+, Colombia 10%+ eroding purchasing power |
 | **Fee extraction** | Consumers pay fees for basic financial services (transfers, withdrawals) |
 | **Loyalty programs are broken** | Points expire, cannot be used across merchants, low perceived value |
@@ -85,7 +85,7 @@ The analogy: Visa and Mastercard built the rails. Square built the experience. I
 
 ### 3.1 Platform Overview
 
-iPay is a full-stack payment platform that gives merchants everything they need to accept crypto payments, reward customers, and grow their business:
+Pay is a full-stack payment platform that gives merchants everything they need to accept crypto payments, reward customers, and grow their business:
 
 **For Merchants:**
 - **One-click registration** — Connect wallet, set business name, start accepting payments
@@ -116,7 +116,7 @@ iPay is a full-stack payment platform that gives merchants everything they need 
 ```
 MERCHANT                              CONSUMER
    │                                     │
-   │  1. Register on iPay                │
+   │  1. Register on Pay                │
    │  2. "Create $50 payment" (AI/UI)    │
    │  3. Share Blink via WhatsApp        │
    │         ──────────────────────►     │
@@ -143,24 +143,24 @@ MERCHANT                              CONSUMER
 
 Sources: Statista, Americas Market Intelligence, McKinsey Global Payments Report
 
-- LATAM digital payments growing at 25% CAGR
-- $1.5T in crypto held by LATAM residents
+- USA digital payments growing at 25% CAGR
+- $1.5T in crypto held by USA residents
 - 57.7M people (12.1% of population) hold cryptocurrency
 - 63% year-over-year growth in crypto adoption (2024-2025)
 
 ### 4.2 Serviceable Addressable Market (SAM)
 
-**$45B — Crypto and stablecoin payment volume in LATAM (2026)**
+**$45B — Crypto and stablecoin payment volume in USA (2026)**
 
-- Stablecoins represent 39% of all crypto purchases in LATAM
-- $150-160B/year in remittances to LATAM (growing target for stablecoin rails)
+- Stablecoins represent 39% of all crypto purchases in USA
+- $150-160B/year in remittances to USA (growing target for stablecoin rails)
 - PayFi sector valued at $2.27B with $148M daily transaction volume
 
 ### 4.3 Serviceable Obtainable Market (SOM)
 
 **$2B — Target payment volume by Year 3 (50,000 merchants)**
 
-Conservative capture rate: 4.4% of crypto payment volume in LATAM
+Conservative capture rate: 4.4% of crypto payment volume in USA
 
 | Timeframe | Merchants | TPV (Total Payment Volume) | Market Share |
 |---|---|---|---|
@@ -179,7 +179,7 @@ Conservative capture rate: 4.4% of crypto payment volume in LATAM
 | Blackbird Series B | $50M for restaurant loyalty on Base chain |
 | Crypto VC funding Q4 2025 | $8.5B — 3-year record |
 | Y Combinator | Now offers $500K in stablecoins instead of wire transfers |
-| NuCoin (Nubank) | Relaunched crypto loyalty in LATAM (2025) |
+| NuCoin (Nubank) | Relaunched crypto loyalty in USA (2025) |
 
 ---
 
@@ -187,7 +187,7 @@ Conservative capture rate: 4.4% of crypto payment volume in LATAM
 
 ### 5.1 Revenue Streams
 
-iPay generates revenue through four primary channels:
+Pay generates revenue through four primary channels:
 
 #### Stream 1: Transaction Fees (Core Revenue)
 
@@ -198,7 +198,7 @@ iPay generates revenue through four primary channels:
 | **Pro** | 0.3% + $49/month | Medium businesses, AI features unlocked | Upsell |
 | **Enterprise** | 0.2% + custom | Large merchants, full API access | High-value accounts |
 
-**Comparison:** Traditional card processors charge 3-7% in LATAM. iPay's 0.5% fee represents an 85-93% cost reduction.
+**Comparison:** Traditional card processors charge 3-7% in USA. Pay's 0.5% fee represents an 85-93% cost reduction.
 
 #### Stream 2: SaaS Subscriptions
 
@@ -210,9 +210,9 @@ iPay generates revenue through four primary channels:
 
 #### Stream 3: White-Label Licensing
 
-- Banks and fintechs license iPay's technology to offer crypto payment + loyalty under their own brand
+- Banks and fintechs license Pay's technology to offer crypto payment + loyalty under their own brand
 - Annual license fee: $50K-$500K depending on volume
-- Target customers: Nequi (Colombia), Nu (Brazil), Mercado Pago (LATAM)
+- Target customers: Nequi (Colombia), Nu (Brazil), Mercado Pago (USA)
 
 #### Stream 4: Data & Insights (Future)
 
@@ -222,13 +222,13 @@ iPay generates revenue through four primary channels:
 
 ### 5.2 Revenue Model Comparison
 
-| Metric | iPay | Square | Stripe | Blackbird |
+| Metric | Pay | Square | Stripe | Blackbird |
 |---|---|---|---|---|
 | Transaction fee | 0.2-0.5% | 2.6% + $0.10 | 2.9% + $0.30 | ~1% |
 | Settlement time | <1 second | 1-2 days | 2-7 days | Instant |
 | Loyalty included | Yes (automatic) | $45/month add-on | No | Yes |
 | AI included | Yes | No | No | No |
-| LATAM focus | Yes | Limited | Global | No (USA only) |
+| USA focus | Yes | Limited | Global | No (USA only) |
 
 ---
 
@@ -292,7 +292,7 @@ Timeline to break-even:                 ~18 months post-launch
 
 **Why Colombia first:**
 - Team is based in Colombia
-- 4th largest economy in LATAM ($340B GDP)
+- 4th largest economy in USA ($340B GDP)
 - 3.5M+ crypto holders (growing rapidly)
 - High smartphone penetration (78%)
 - Nequi (digital wallet) has 20M+ users — proves digital payment adoption
@@ -309,7 +309,7 @@ Timeline to break-even:                 ~18 months post-launch
 ### 7.2 Phase 2: Mexico (Months 6-12)
 
 **Why Mexico second:**
-- Largest LATAM economy ($1.8T GDP)
+- Largest USA economy ($1.8T GDP)
 - 12M+ crypto holders
 - OXXO (convenience stores) proves cash-to-digital conversion works
 - CoDi (BANXICO's digital payment system) has limited adoption — opportunity
@@ -325,8 +325,8 @@ Timeline to break-even:                 ~18 months post-launch
 ### 7.3 Phase 3: Brazil (Months 12-24)
 
 **Why Brazil third:**
-- Largest LATAM market ($2.1T GDP)
-- 25M+ crypto holders (largest in LATAM)
+- Largest USA market ($2.1T GDP)
+- 25M+ crypto holders (largest in USA)
 - PIX processes $500B+/year — massive digital payment culture
 - Nubank (100M+ customers) validated crypto loyalty with NuCoin
 - Regulatory framework (Marco Legal das Criptomoedas) provides clarity
@@ -337,7 +337,7 @@ Timeline to break-even:                 ~18 months post-launch
 - Partnerships: Local payment processors, Mercado Pago integration
 - Localization: Portuguese UX, PIX bridge for fiat on/off-ramp
 
-### 7.4 Phase 4: LATAM Expansion (Months 24-36)
+### 7.4 Phase 4: USA Expansion (Months 24-36)
 
 - Argentina (inflation hedge narrative, high crypto adoption)
 - Chile (stable economy, tech-forward)
@@ -356,9 +356,9 @@ Timeline to break-even:                 ~18 months post-launch
 | **Direct sales** | 3-person team in Colombia, expand per market | $30-50 |
 | **Referral program** | Merchants earn iPAY for referring other merchants | $10-20 |
 | **Partnerships** | Coworking spaces, merchant associations, accelerators | $15-25 |
-| **Content marketing** | iPay Academy: tutorials on crypto payments for merchants | $5-10 |
-| **Community** | Solana Superteam LATAM, local crypto meetups | $5-15 |
-| **Product-led growth** | Free tier, viral Blinks (consumers see iPay when paying) | $2-5 |
+| **Content marketing** | Pay Academy: tutorials on crypto payments for merchants | $5-10 |
+| **Community** | Solana Superteam USA, local crypto meetups | $5-15 |
+| **Product-led growth** | Free tier, viral Blinks (consumers see Pay when paying) | $2-5 |
 
 ---
 
@@ -366,7 +366,7 @@ Timeline to break-even:                 ~18 months post-launch
 
 ### 8.1 Competitive Matrix
 
-| Feature | iPay | Helio | Blackbird | Square | Stripe | Rain |
+| Feature | Pay | Helio | Blackbird | Square | Stripe | Rain |
 |---|---|---|---|---|---|---|
 | **Crypto payments** | Yes | Yes | Yes | No | Partial | Yes |
 | **Fiat payments** | Planned | No | No | Yes | Yes | Yes |
@@ -374,7 +374,7 @@ Timeline to break-even:                 ~18 months post-launch
 | **AI agent** | Yes | No | No | No | No | No |
 | **Blinks/shareable** | Yes | No | No | No | No | No |
 | **Cross-merchant loyalty** | Yes | N/A | Yes | No | N/A | N/A |
-| **LATAM focus** | Yes | No | No | Limited | Global | No |
+| **USA focus** | Yes | No | No | Limited | Global | No |
 | **Settlement time** | <1 sec | <1 sec | Instant | 1-2 days | 2-7 days | <1 sec |
 | **Transaction fee** | 0.2-0.5% | 0.5-1% | ~1% | 2.6%+$0.10 | 2.9%+$0.30 | Varies |
 | **Blockchain** | Solana | Solana | Base | N/A | N/A | Multi |
@@ -383,8 +383,8 @@ Timeline to break-even:                 ~18 months post-launch
 ### 8.2 Competitive Advantages
 
 1. **Only platform combining Blinks + Loyalty + AI** — No competitor offers all three
-2. **Transfer Hooks for zero-friction loyalty** — Technical innovation unique to iPay
-3. **LATAM-native** — Built for and in Latin America, not adapted from a US product
+2. **Transfer Hooks for zero-friction loyalty** — Technical innovation unique to Pay
+3. **USA-native** — Built for and in Latin America, not adapted from a US product
 4. **85-93% cheaper than cards** — 0.5% vs 3-7% is a compelling merchant value prop
 5. **AI-first merchant experience** — Zero crypto knowledge required to operate
 
@@ -395,7 +395,7 @@ Timeline to break-even:                 ~18 months post-launch
 | **Network effects** | More merchants = more iPAY utility = more consumers = more merchants |
 | **Cross-merchant loyalty** | Switching cost increases as consumers accumulate iPAY across merchants |
 | **AI data flywheel** | More transactions = better AI recommendations = higher merchant retention |
-| **First mover in PayFi LATAM** | No competitor combines payments + loyalty + AI on Solana for LATAM |
+| **First mover in PayFi USA** | No competitor combines payments + loyalty + AI on Solana for USA |
 | **Technical depth** | Transfer Hook + Blinks + AI integration is complex to replicate |
 
 ---
@@ -416,7 +416,7 @@ Timeline to break-even:                 ~18 months post-launch
 ### Advisors (Target)
 
 - Solana Foundation ecosystem lead
-- LATAM fintech founder (Rappi, Nu, or similar)
+- USA fintech founder (Rappi, Nu, or similar)
 - Regulatory expert in Colombian/Mexican fintech law
 - Token economics specialist
 
@@ -490,7 +490,7 @@ Revenue ($M)     EBITDA ($M)
 | Investor Type | Why |
 |---|---|
 | **Solana ecosystem funds** | Colosseum, Solana Ventures — aligned with ecosystem growth |
-| **LATAM fintech VCs** | Kaszek, Monashees, a][ Fund — deep LATAM market knowledge |
+| **USA fintech VCs** | Kaszek, Monashees, a][ Fund — deep USA market knowledge |
 | **PayFi-focused funds** | Polychain, Multicoin Capital — thesis-aligned |
 | **Strategic angels** | Founders of Rappi, Nu, Bitso, Mercado Pago — operational expertise |
 
@@ -521,7 +521,7 @@ Revenue ($M)     EBITDA ($M)
 
 ### 12.2 Key Hires (First 12 Months)
 
-| Role | Priority | Monthly Cost (LATAM) |
+| Role | Priority | Monthly Cost (USA) |
 |---|---|---|
 | Senior Solana Engineer | P0 | $6,000 - $10,000 |
 | Full-Stack Engineer (2) | P0 | $4,000 - $7,000 each |
@@ -532,7 +532,7 @@ Revenue ($M)     EBITDA ($M)
 | Designer (UI/UX) | P1 | $3,000 - $5,000 |
 | Community Manager | P2 | $2,000 - $3,000 |
 
-*Note: LATAM-based team provides 3-5x cost advantage over US/EU hires.*
+*Note: USA-based team provides 3-5x cost advantage over US/EU hires.*
 
 ---
 
@@ -608,10 +608,10 @@ Revenue ($M)     EBITDA ($M)
 
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
-| Regulatory change in LATAM | Medium | High | Multi-jurisdiction strategy, compliance-first approach |
+| Regulatory change in USA | Medium | High | Multi-jurisdiction strategy, compliance-first approach |
 | Solana network downtime | Low | High | Multi-chain roadmap (Base as backup) |
 | Low merchant adoption | Medium | High | Free tier, aggressive incentives, direct sales |
-| Competition from Stripe/Square | Medium | Medium | First-mover in LATAM PayFi, loyalty moat |
+| Competition from Stripe/Square | Medium | Medium | First-mover in USA PayFi, loyalty moat |
 | Security breach / hack | Low | Critical | Smart contract audits, bug bounties, insurance |
 | iPAY token regulatory risk | Low | Medium | Structured as loyalty points, legal opinions obtained |
 | Stablecoin regulatory risk | Medium | Medium | Use regulated stablecoins (USDC/Circle) |
@@ -620,4 +620,4 @@ Revenue ($M)     EBITDA ($M)
 
 *Document version: 1.0*
 *Last updated: March 2026*
-*iPay — The Square of PayFi*
+*Pay — The Square of PayFi*

@@ -452,7 +452,7 @@ export default function DeveloperPortal() {
             <div>
               <h1 className="text-3xl font-bold mb-2">Smart Contract</h1>
               <p className="text-gray-400 mb-6">
-                iPay Protocol — 21 on-chain instructions on Solana (Anchor framework)
+                Pay Protocol — 21 on-chain instructions on Solana (Anchor framework)
               </p>
 
               <div className="space-y-6">

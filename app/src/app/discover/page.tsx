@@ -260,7 +260,7 @@ export default function DiscoverPage() {
       {/* Header */}
       <header className="relative z-10 w-full py-6 px-6 flex justify-between items-center">
         <a href="/">
-          <span className="text-2xl font-bold tracking-tight solana-gradient-text">iPay</span>
+          <span className="text-2xl font-bold tracking-tight solana-gradient-text">Pay</span>
         </a>
         <div className="flex items-center gap-4">
           <a href="/wallet" className="text-sm text-gray-400 hover:text-white transition-colors">
@@ -446,7 +446,7 @@ export default function DiscoverPage() {
           </div>
           <div className="flex-1">
             <p className="text-sm font-medium text-white">Eres comerciante?</p>
-            <p className="text-xs text-gray-500 mt-0.5">Registra tu negocio en iPay y empieza a aceptar pagos con Solana</p>
+            <p className="text-xs text-gray-500 mt-0.5">Registra tu negocio en Pay y empieza a aceptar pagos con Solana</p>
           </div>
           <a
             href="/merchant"

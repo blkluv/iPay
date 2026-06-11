@@ -52,7 +52,7 @@
 - Merchant Dashboard (registro, ver pagos, analytics, config loyalty)
 - Consumer Checkout (pagar vía wallet, ver loyalty acumulado)
 - AI Chat interface (generar Blinks con lenguaje natural)
-- Mobile responsive (85%+ merchants LATAM usan Android)
+- Mobile responsive (85%+ merchants USA usan Android)
 
 ### 1.2 Blinks API [CRÍTICO]
 **Estado:** No existe
@@ -107,7 +107,7 @@
 
 ### 2.2 USDC Support (no solo SOL) [ALTO IMPACTO]
 **Estado:** Smart contract solo acepta SOL
-**Por qué importa:** 50%+ del volumen crypto en LATAM es stablecoins
+**Por qué importa:** 50%+ del volumen crypto en USA es stablecoins
 **Necesitamos:**
 - Instrucción `process_payment_spl` que acepte SPL tokens (USDC)
 - Usar devnet USDC mint

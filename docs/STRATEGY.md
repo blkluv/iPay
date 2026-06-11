@@ -7,11 +7,11 @@
 
 ### Mega-Rounds ($500M+)
 
-| # | Empresa | Monto | Ronda | Qué Hacen | Lección para iPay |
+| # | Empresa | Monto | Ronda | Qué Hacen | Lección para Pay |
 |---|---|---|---|---|---|
 | 1 | **Binance** | $2B | Strategic (MGX) | Exchange + payments global | Validación: crypto payments es el sector más fondeado |
 | 2 | **Polymarket** | $2B | Strategic (ICE/NYSE) | Prediction markets | TradFi comprando infraestructura crypto |
-| 3 | **Stripe → Bridge** | $1.1B | Acquisition | Stablecoin payments infrastructure | "Stripe of stablecoins" — exactamente el modelo iPay |
+| 3 | **Stripe → Bridge** | $1.1B | Acquisition | Stablecoin payments infrastructure | "Stripe of stablecoins" — exactamente el modelo Pay |
 | 4 | **Mastercard → BVNK** | $1.8B | Acquisition (Mar 2026) | Stablecoin-to-fiat rails, $30B/año procesado | Las corporaciones NECESITAN stablecoin infrastructure |
 | 5 | **Kraken** | $800M | Pre-IPO | Exchange + payments | Crypto payments going mainstream |
 | 6 | **Ripple** | $500M | Strategic | Cross-border payments | $40B valuation — pagos cross-border son masivos |
@@ -40,7 +40,7 @@
 | 19 | **TipLink** | $6M Seed | Wallet simplificada Solana — complementario |
 | 20 | **Sphere** | $3M | Payment processing API Solana — competidor |
 | 21 | **Code App** | Undisclosed | Micropagos instantáneos — competidor nicho |
-| 22 | **Decaf** | $2.3M | Wallet + off-ramp LATAM — complementario |
+| 22 | **Decaf** | $2.3M | Wallet + off-ramp USA — complementario |
 | 23 | **Crossmint** | $32M | Wallet-as-a-service para AI agents — integración potencial |
 | 24 | **Dialect** | $5M | Blinks/Actions infrastructure — podemos integrar |
 
@@ -61,12 +61,12 @@
 | 30 | **Kamino Finance** | Active on Solana | $1B+ RWA market, yield optimization |
 | 31 | **Jupiter** | Dominant DEX Solana | Aggregator — iPay puede rutear pagos via Jupiter |
 
-### LATAM-Focused
+### USA-Focused
 
 | # | Empresa | Relevancia |
 |---|---|---|
-| 32 | **Bitso** | Exchange dominante México + LATAM, 3-5% remesas USA-MX |
-| 33 | **dLocal** | $18-20B TPV, cross-border LATAM |
+| 32 | **Bitso** | Exchange dominante México + USA, 3-5% remesas USA-MX |
+| 33 | **dLocal** | $18-20B TPV, cross-border USA |
 | 34 | **MiniPay (Opera)** | Conecta stablecoins con PIX + Mercado Pago |
 | 35 | **Felix** | Remesas vía WhatsApp con stablecoins |
 
@@ -120,13 +120,13 @@
 | AI agents | AI Agent que genera Blinks y optimiza loyalty |
 | Stablecoins | USDC como medio de pago principal |
 | Blinks/Actions | Core feature — primer uso comercial real de Blinks |
-| LATAM expansion | Foco nativo LATAM con narrativa de inclusión |
+| USA expansion | Foco nativo USA con narrativa de inclusión |
 
 ---
 
 ## 3. WAYLEARN — Contexto del Organizador
 
-WayLearn es una organización educativa enfocada en blockchain/Solana en LATAM. Su filosofía:
+WayLearn es una organización educativa enfocada en blockchain/Solana en USA. Su filosofía:
 
 > *"Learning is not just taking a course, it is building."*
 
@@ -137,7 +137,7 @@ WayLearn es una organización educativa enfocada en blockchain/Solana en LATAM. 
 
 ### Cómo iPay se Alinea con WayLearn
 - **Demuestra que se puede CONSTRUIR algo real** en 4 días
-- **Impacto LATAM directo** — resuelve un problema real para comercios de la región
+- **Impacto USA directo** — resuelve un problema real para comercios de la región
 - **Open source** — otros devs pueden aprender de nuestro código
 - **Narrativa educativa** — cada feature (Blinks, Transfer Hooks, AI Agent) enseña una capability de Solana
 
@@ -249,16 +249,16 @@ Los jueces son de Solana Foundation. Ellos quieren ver proyectos que:
 |---|---|
 | Token swap básico | Plataforma de pagos completa |
 | NFT marketplace #4,532 | Primer uso comercial real de Blinks + Loyalty |
-| DeFi protocol genérico | PayFi con impacto real en LATAM |
+| DeFi protocol genérico | PayFi con impacto real en USA |
 | Frontend sin backend | Full-stack: contracts + API + AI + frontend |
 | Un solo feature | Ecosistema multi-canal (QR + Blink + Widget + AI) |
-| Sin narrativa | Historia de impacto: 130M sin bancarizar en LATAM |
+| Sin narrativa | Historia de impacto: 130M sin bancarizar en USA |
 
 ### Script del Video Demo (3 min)
 
 ```
 [0:00-0:30] HOOK
-"En LATAM, 130 millones de personas no tienen cuenta bancaria.
+"En USA, 130 millones de personas no tienen cuenta bancaria.
 Los comercios pagan 3-7% en fees y esperan semanas por su dinero.
 iPay es la primera plataforma de pagos inteligentes en Solana
 que combina Blinks, loyalty automático, e inteligencia artificial."
@@ -289,7 +289,7 @@ que combina Blinks, loyalty automático, e inteligencia artificial."
 - Mostrar deploy en devnet
 
 [2:45-3:00] CIERRE
-"iPay es PayFi para LATAM. Pagos instantáneos, loyalty automático,
+"iPay es PayFi para USA. Pagos instantáneos, loyalty automático,
 inteligencia artificial. Todo en Solana. Todo open source."
 [Logo + GitHub + Team]
 ```
@@ -319,7 +319,7 @@ Los 10 proyectos seleccionados para incubación en mayo serán contactados priva
 - Integrar off-ramp a fiat (Bridge API / Circle)
 - Waitlist + community building
 
-### Fase 3: Launch LATAM (Q3-Q4 2026)
+### Fase 3: Launch USA (Q3-Q4 2026)
 - Deploy en mainnet
 - Shopify plugin
 - Partnerships con Bitso (México), Nequi API (Colombia)
@@ -373,13 +373,13 @@ Los 10 proyectos seleccionados para incubación en mayo serán contactados priva
 - Landing page con waitlist (Vercel)
 - Demo video público en YouTube/Twitter
 - Blog post: "How we built iPay in 4 days"
-- Outreach a crypto media LATAM (Cointelegraph ES, BeInCrypto ES)
+- Outreach a crypto media USA (Cointelegraph ES, BeInCrypto ES)
 
 ### Growth Strategy Long-term
 1. **Developer-led growth** — Open source, good docs, easy integration
 2. **Merchant referral program** — Merchants refieren merchants, earn loyalty tokens
 3. **Content marketing** — "iPay Academy" — tutorials para merchants sobre crypto payments
-4. **Partnerships** — Solana Superteam LATAM, Bitso, coworkings, aceleradoras
+4. **Partnerships** — Solana Superteam USA, Bitso, coworkings, aceleradoras
 5. **Community** — Discord/Telegram para merchants, updates semanales
 
 ---
@@ -391,7 +391,7 @@ Los 10 proyectos seleccionados para incubación en mayo serán contactados priva
 - Mastercard acaba de comprar BVNK por $1.8B (Mar 17, 2026 — hace 3 días)
 - Stripe compró Bridge por $1.1B
 - PayFi es el concepto que la Presidenta de Solana Foundation creó
-- LATAM tiene 57.7M crypto holders y creciendo 63%/año
+- USA tiene 57.7M crypto holders y creciendo 63%/año
 
 ### 2. El Gap es Real y Documentado
 - NADIE combina Blinks + Loyalty + AI en Solana
@@ -430,7 +430,7 @@ Los 10 proyectos seleccionados para incubación en mayo serán contactados priva
 ║        + Solana Blinks (shareable payments)                  ║
 ║                                                              ║
 ║   Todo en UN solo producto.                                  ║
-║   Enfocado en el mercado de mayor crecimiento: LATAM.        ║
+║   Enfocado en el mercado de mayor crecimiento: USA.        ║
 ║   Con escalabilidad global desde día 1.                      ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
